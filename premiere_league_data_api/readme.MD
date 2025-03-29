@@ -2,16 +2,18 @@
 
 This project provides a Python-based scraper designed to extract and present Premier League standings and player performance data from multiple APIs, including the [football-data.org API](https://www.football-data.org/documentation/quickstart). By automating data collection, this scraper facilitates efficient analysis and visualization of team and player performance during the 2024/25 Premier League season. Leveraging libraries like `requests` and `pandas`, the scraper retrieves, processes, and transforms the data into a structured format for further insights. 
 
-The final exported data can be viewed through two methods:
+**The final exported data can be viewed through two methods:**
 - Using the Excel file `data/plf_data.xlsx`
 - Utilizing the CSV file `data/plf_data.csv`
 
-Position,Team,Played Games,Form,Won,Draw,Lost,Points,Goals For,Goals Against,Goal Difference,Coach,Top Scorer,Goals,Penalties,Assists,Form Values
-1,Liverpool FC,29,"W,W,W,D,W",21,7,1,70,69,27,42,Arne Slot,Mohamed Salah,27,9.0,16.0,"[3, 3, 3, 1, 3]"
-2,Arsenal FC,29,"W,D,D,L,W",16,10,3,58,53,24,29,Mikel Arteta,Unknown,0,0.0,0.0,"[3, 1, 1, 0, 3]"
-3,Nottingham Forest FC,29,"W,W,D,L,L",16,6,7,54,49,35,14,Nuno Espírito Santo,Chris Wood,18,3.0,3.0,"[3, 3, 1, 0, 0]"
-4,Chelsea FC,29,"L,W,W,L,L",14,7,8,49,53,37,16,Enzo Maresca,Cole Palmer,14,3.0,6.0,"[0, 3, 3, 0, 0]"
-5,Manchester City FC,29,"D,L,W,L,W",14,6,9,48,55,40,15,Pep Guardiola,Erling Haaland,21,2.0,3.0,"[1, 0, 3, 0, 3]"
+**Here is a sample of the data scraped:**
+| Position | Team                | Played Games | Form       | Won | Draw | Lost | Points | Goals For | Goals Against | Goal Difference | Coach               | Top Scorer     | Goals | Penalties | Assists | Form Values     |
+|----------|---------------------|--------------|------------|-----|------|------|--------|-----------|---------------|-----------------|---------------------|----------------|-------|-----------|---------|-----------------|
+| 1        | Liverpool FC        | 29           | W,W,W,D,W  | 21  | 7    | 1    | 70     | 69        | 27            | 42              | Arne Slot           | Mohamed Salah  | 27    | 9         | 16      | [3, 3, 3, 1, 3] |
+| 2        | Arsenal FC          | 29           | W,D,D,L,W  | 16  | 10   | 3    | 58     | 53        | 24            | 29              | Mikel Arteta        | Unknown        | 0     | 0         | 0       | [3, 1, 1, 0, 3] |
+| 3        | Nottingham Forest FC| 29           | W,W,D,L,L  | 16  | 6    | 7    | 54     | 49        | 35            | 14              | Nuno Espírito Santo | Chris Wood     | 18    | 3         | 3       | [3, 3, 1, 0, 0] |
+| 4        | Chelsea FC          | 29           | L,W,W,L,L  | 14  | 7    | 8    | 49     | 53        | 37            | 16              | Enzo Maresca        | Cole Palmer    | 14    | 3         | 6       | [0, 3, 3, 0, 0] |
+| 5        | Manchester City FC  | 29           | D,L,W,L,W  | 14  | 6    | 9    | 48     | 55        | 40            | 15              | Pep Guardiola       | Erling Haaland | 21    | 2         | 3       | [1, 0, 3, 0, 3] |
 
 ## Navigation
 1. [Objective](#objective)
