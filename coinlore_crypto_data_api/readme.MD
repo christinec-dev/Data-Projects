@@ -2,9 +2,17 @@
 
 This project provides a Python-based scraper to efficiently extract cryptocurrency data from the [Coinlore API](https://www.coinlore.com/cryptocurrency-data-api#global). By automating data collection, this scraper saves time and enables in-depth analysis of key cryptocurrency metrics such as price, market cap, and trading volume. The scraper leverages libraries such as `requests` and `pandas` to retrieve, process, and export data to Excel and CSV formats for further analysis.
 
-The final exported data can be viewed through two methods:
+**The final exported data can be viewed through two methods:**
 - Using the Excel file `data/crypto_data.xlsx`
 - Utilizing the CSV file `data/crypto_data.csv`
+
+**Here is a sample of the data scraped:**
+| Symbol | Name     | Rank | Price (USD) | Percent Change (24h) | Percent Change (1h) | Percent Change (7 days) | Price (Bitcoin) | Market Cap (USD) | Trading Volume (24h) | Adjusted Volume (24h) | Circulating Supply | Total Supply     |
+|--------|----------|------|-------------|-----------------------|---------------------|-------------------------|-----------------|------------------|----------------------|-----------------------|--------------------|------------------|
+| BTC    | Bitcoin  | 1    | 83714.67    | -1.98                 | 0.01                | -0.19                   | 1.00            | 1661105111817.30 | 2.58E+10             | 2.6E+10               | 19842462.00        | 19842462         |
+| ETH    | Ethereum | 2    | 1880.26     | -1.83                 | 0.08                | -4.73                   | 0.022459        | 226521042282.39  | 1.14E+10             | 1.21E+10              | 120473321.00       | 122375302        |
+| USDT   | Tether   | 3    | 1.01        | 0.43                  | -0.16               | 0.19                    | 0.000012        | 140086894935.40  | 4.75E+10             | 5.05E+10              | 139329876218.00    | 141572991338.46  |
+| XRP    | XRP      | 4    | 2.12        | -5.09                 | 0.02                | -11.35                  | 0.000025        | 122429487358.83  | 3.09E+09             | 2.51E+09              | 57641211234.00     | 99986586496      |
 
 ## Navigation
 1. [Objective](#objective)
