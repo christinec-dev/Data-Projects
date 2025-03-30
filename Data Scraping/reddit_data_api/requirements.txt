@@ -1,0 +1,7 @@
+requests
+pandas
+matplotlib
+openpyxl
+python-dotenv
+praw
+textblob
