@@ -1,0 +1,6 @@
+requests
+pandas
+matplotlib
+bs4
+selenium
+currency_converter
