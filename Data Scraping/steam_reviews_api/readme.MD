@@ -7,7 +7,14 @@ This project provides a Python-based scraper designed to extract and analyze rev
 - Utilizing the CSV file `data/baldurs_gate_3_data.csv`
 
 **Here is a sample of the data scraped:**
-![Baldurs Gate 3 table sample](image.png)
+| Review ID | Author ID         | Type    | Reviews Written | Playtime At Review | Recommendation | Review | Weighted Score       | Upvotes | Purchased | Review Timeframe | Created At |
+| --------- | ----------------- | ------- | --------------- | ------------------ | -------------- | ------ | -------------------- | ------- | --------- | ---------------- | ---------- |
+| 190814602 | 76561198214494745 | User    | 9               | 28889              | Recommended    | ..     | 0.523809552192687988 | 1       | TRUE      | Alpha Release    | 1742575131 |
+| 187021900 | 76561198117395075 | User    | 1               | 745                | Recommended    | ..     | 0.525862038135528564 | 1       | TRUE      | Alpha Release    | 1738525000 |
+| 191614865 | 76561198176756298 | User    | 5               | 17824              | Recommended    | ..     | 0.523809552192687988 | 1       | TRUE      | Alpha Release    | 1743385518 |
+| 187615509 | 76561198135938430 | Curator | 2               | 7600               | Recommended    | ..     | 0.523809552192687988 | 2       | FALSE     | Recent           | 1739172688 |
+| 188114153 | 76561198796043390 | Curator | 8               | 14256              | Recommended    | ..     | 0.518518567085266113 | 3       | FALSE     | Recent           | 1739790919 |
+| 177693190 | 76561197972131209 | User    | 21              | 11673              | Recommended    | ..     | 0.93644261360168457  | 822     | TRUE      | Early Access     | 1729847006 |
 
 ## Navigation
 1. [Objective](#objective)
