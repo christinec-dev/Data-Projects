@@ -1,5 +1,7 @@
 #  Global Life Expectency Trends: Exploratory Data Analysis (EDA) Project
 
+Note: This EDA along with the dataset can be viewed on [Kaggle](https://www.kaggle.com/code/christinecoomans/global-life-expectancy-trends-eda). 
+
 ## Description
 
 The objective of this Exploratory Data Analysis (EDA) is to explore and understand the trends and patterns in global life expectancy using data from the [World Bank Group](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?end=2022&start=2022&view=bar). The analysis includes data cleaning, visualization, and statistical analysis using Python libraries such as `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, and `Plotly`.
@@ -7,6 +9,7 @@ The objective of this Exploratory Data Analysis (EDA) is to explore and understa
 The data used for this analysis can be accessed through the links provided below:
 - [Download Data](https://api.worldbank.org/v2/en/indicator/SP.DYN.LE00.IN?downloadformat=excel)
 - [Online Data](https://data.worldbank.org/indicator/SP.DYN.LE00.IN)
+- [Kaggle Data](https://www.kaggle.com/datasets/christinecoomans/wbg-data)
 
 ## Features
 - Data cleaning and preprocessing
