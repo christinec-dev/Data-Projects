@@ -1,5 +1,7 @@
 #  F1 Performance Factors: Exploratory Data Analysis
 
+**IMPORTANT:** This EDA needs to be run to be able to view the `plotly` graphs in section 7. This can be done either via the instructions below, or it can be viewed directly on [Kaggle](https://www.kaggle.com/code/christinecoomans/f1-performance-factors-eda). 
+
 ## Description
 
 The objective of this Exploratory Data Analysis (EDA) is to explore and understand the performance trends of drivers and teams over the 2024 Formula 1 season. The datasets, sourced from [Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?select=results.csv), provides comprehensive information on the Formula 1 races, drivers, constructors, qualifying, circuits, lap times, pit stops, championships from the latest 2024 season. This analysis aims to address questions that will help uncover insights into both individual and team dynamics, as well as broader race strategies.
