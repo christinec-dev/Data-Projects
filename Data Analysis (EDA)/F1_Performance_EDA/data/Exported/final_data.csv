@@ -1,0 +1,480 @@
+Race ID,Race Name,Driver ID,Driver,Team,Role,Rank,Points,Wins,Status,Start Position,End Position,Average Pit Stops,Average Stop Duration,Total Laps,Fastest Lap,Fastest Lap Speed,Fastest Lap Time
+1121,Bahrain Grand Prix,848,Alexander Albon,Williams,Full-Time,17,0,0,Finished (Lapped),13,15,2,26.6,56,40,203.5,95723.0
+1122,Saudi Arabian Grand Prix,848,Alexander Albon,Williams,Full-Time,9,0,0,Finished,12,11,1,25.4,50,50,240.8,92307.0
+1123,Australian Grand Prix,848,Alexander Albon,Williams,Full-Time,17,0,0,Finished (Lapped),12,11,2,19.7,57,46,232.8,81618.0
+1124,Japanese Grand Prix,848,Alexander Albon,Williams,Full-Time,0,0,0,Accident,14,0,3,543.2,0,0,0.0,
+1125,Chinese Grand Prix,848,Alexander Albon,Williams,Full-Time,12,0,0,Finished,14,12,2,25.5,56,34,194.7,100790.0
+1126,Miami Grand Prix,848,Alexander Albon,Williams,Full-Time,2,0,0,Finished,14,18,1,23.4,57,55,214.5,90849.0
+1127,Emilia Romagna Grand Prix,848,Alexander Albon,Williams,Full-Time,15,0,0,Mechanical Failure,14,0,1,30.6,51,48,217.4,81274.0
+1128,Monaco Grand Prix,848,Alexander Albon,Williams,Full-Time,0,2,0,Finished (Lapped),9,9,1,1659.6,77,0,0.0,
+1129,Canadian Grand Prix,848,Alexander Albon,Williams,Full-Time,18,0,0,Accident,10,0,2,27.0,52,51,197.8,79359.0
+1130,Spanish Grand Prix,848,Alexander Albon,Williams,Full-Time,14,0,0,Finished (Lapped),0,18,2,22.6,65,45,211.9,79132.0
+1131,Austrian Grand Prix,848,Alexander Albon,Williams,Full-Time,16,0,0,Finished (Lapped),16,15,2,22.8,70,41,220.9,70364.0
+1132,British Grand Prix,848,Alexander Albon,Williams,Full-Time,8,2,0,Finished,9,9,2,29.8,52,52,236.4,89718.0
+1133,Hungarian Grand Prix,848,Alexander Albon,Williams,Full-Time,20,0,0,Finished (Lapped),13,14,2,21.8,69,31,187.9,83930.0
+1134,Belgian Grand Prix,848,Alexander Albon,Williams,Full-Time,16,0,0,Finished,10,12,1,23.1,44,44,233.5,107996.0
+1135,Dutch Grand Prix,848,Alexander Albon,Williams,Full-Time,6,0,0,Finished (Lapped),19,14,1,21.4,71,71,206.0,74434.0
+1136,Italian Grand Prix,848,Alexander Albon,Williams,Full-Time,16,2,0,Finished,9,9,1,26.2,53,53,248.5,83918.0
+1137,Azerbaijan Grand Prix,848,Alexander Albon,Williams,Full-Time,5,6,0,Finished,9,7,1,20.7,51,43,202.1,106947.0
+1138,Singapore Grand Prix,848,Alexander Albon,Williams,Full-Time,8,0,0,Mechanical Failure,11,0,1,29.6,15,13,183.6,96888.0
+1139,United States Grand Prix,848,Alexander Albon,Williams,Full-Time,14,0,0,Finished (Lapped),14,16,1,25.2,55,54,200.3,99084.0
+1140,Mexico City Grand Prix,848,Alexander Albon,Williams,Full-Time,0,0,0,Accident,9,0,1,24.3,0,0,0.0,
+1141,São Paulo Grand Prix,848,Alexander Albon,Williams,Full-Time,0,0,0,Other,7,0,1,661.3,0,0,0.0,
+1142,Las Vegas Grand Prix,848,Alexander Albon,Williams,Full-Time,19,0,0,Mechanical Failure,17,0,1,21.8,25,21,227.8,98008.0
+1143,Qatar Grand Prix,848,Alexander Albon,Williams,Full-Time,14,0,0,Finished (Lapped),16,15,3,29.3,56,47,228.0,85559.0
+1144,Abu Dhabi Grand Prix,848,Alexander Albon,Williams,Full-Time,18,0,0,Finished (Lapped),18,11,1,24.5,57,46,212.6,89438.0
+1121,Bahrain Grand Prix,832,Carlos Sainz,Ferrari,Substitute,6,15,0,Finished,4,3,2,26.6,57,44,206.2,94507.0
+1123,Australian Grand Prix,832,Carlos Sainz,Ferrari,Substitute,3,25,1,Finished,2,1,2,19.7,58,48,237.4,80031.0
+1124,Japanese Grand Prix,832,Carlos Sainz,Ferrari,Substitute,2,15,1,Finished,4,3,3,543.2,53,46,222.8,93841.0
+1125,Chinese Grand Prix,832,Carlos Sainz,Ferrari,Substitute,10,10,1,Finished,7,5,2,25.5,56,19,196.7,99764.0
+1126,Miami Grand Prix,832,Carlos Sainz,Ferrari,Substitute,4,10,1,Finished,3,5,1,23.4,57,55,214.3,90928.0
+1127,Emilia Romagna Grand Prix,832,Carlos Sainz,Ferrari,Substitute,7,10,1,Finished,4,5,1,30.6,63,63,220.3,80220.0
+1128,Monaco Grand Prix,832,Carlos Sainz,Ferrari,Substitute,0,15,1,Finished,3,3,1,1659.6,78,0,0.0,
+1129,Canadian Grand Prix,832,Carlos Sainz,Ferrari,Substitute,17,0,1,Accident,12,0,2,27.0,52,51,198.8,78957.0
+1130,Spanish Grand Prix,832,Carlos Sainz,Ferrari,Substitute,9,8,1,Finished,6,6,2,22.6,66,39,213.5,78539.0
+1131,Austrian Grand Prix,832,Carlos Sainz,Ferrari,Substitute,6,15,1,Finished,4,3,2,22.8,71,56,224.4,69282.0
+1132,British Grand Prix,832,Carlos Sainz,Ferrari,Substitute,1,11,1,Finished,7,5,2,29.8,52,52,240.2,88293.0
+1133,Hungarian Grand Prix,832,Carlos Sainz,Ferrari,Substitute,5,8,1,Finished,4,6,2,21.8,70,53,193.7,81441.0
+1134,Belgian Grand Prix,832,Carlos Sainz,Ferrari,Substitute,5,8,1,Finished,7,6,1,23.1,44,44,237.1,106364.0
+1135,Dutch Grand Prix,832,Carlos Sainz,Ferrari,Substitute,4,10,1,Finished,10,5,1,21.4,72,40,206.9,74117.0
+1136,Italian Grand Prix,832,Carlos Sainz,Ferrari,Substitute,9,12,1,Finished,5,4,1,26.2,53,53,250.6,83219.0
+1137,Azerbaijan Grand Prix,832,Carlos Sainz,Ferrari,Substitute,4,0,1,Mechanical Failure,3,18,1,20.7,49,46,202.2,106866.0
+1138,Singapore Grand Prix,832,Carlos Sainz,Ferrari,Substitute,7,6,1,Finished,10,7,1,29.6,62,15,184.2,96561.0
+1139,United States Grand Prix,832,Carlos Sainz,Ferrari,Substitute,5,18,1,Finished,3,2,1,25.2,56,42,203.0,97763.0
+1140,Mexico City Grand Prix,832,Carlos Sainz,Ferrari,Substitute,7,25,2,Finished,1,1,1,24.3,71,62,193.3,80137.0
+1141,São Paulo Grand Prix,832,Carlos Sainz,Ferrari,Substitute,17,0,2,Accident,0,0,1,661.3,38,19,184.2,84201.0
+1142,Las Vegas Grand Prix,832,Carlos Sainz,Ferrari,Substitute,5,15,2,Finished,2,3,1,21.8,50,44,232.8,95875.0
+1143,Qatar Grand Prix,832,Carlos Sainz,Ferrari,Substitute,6,8,2,Finished,7,6,3,29.3,57,52,233.7,83465.0
+1144,Abu Dhabi Grand Prix,832,Carlos Sainz,Ferrari,Substitute,5,18,2,Finished,3,2,1,24.5,58,55,216.6,87765.0
+1121,Bahrain Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,2,12,0,Finished,2,4,2,26.6,57,36,207.1,94090.0
+1122,Saudi Arabian Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,1,16,0,Finished,2,3,1,25.4,50,50,242.6,91632.0
+1123,Australian Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,1,19,0,Finished,4,2,2,19.7,58,56,238.1,79813.0
+1124,Japanese Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,9,12,0,Finished,8,4,3,543.2,53,53,220.0,95044.0
+1125,Chinese Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,6,12,0,Finished,6,4,2,25.5,56,33,197.5,99384.0
+1126,Miami Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,6,15,0,Finished,2,3,1,23.4,57,56,213.9,91084.0
+1127,Emilia Romagna Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,5,15,0,Finished,3,3,1,30.6,63,27,221.1,79935.0
+1128,Monaco Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,0,25,1,Finished,1,1,1,1659.6,78,0,0.0,
+1129,Canadian Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,19,0,1,Mechanical Failure,11,0,2,27.0,40,39,182.5,86012.0
+1130,Spanish Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,6,10,1,Finished,5,5,2,22.6,66,52,215.2,77897.0
+1131,Austrian Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,8,0,1,Finished,6,11,2,22.8,71,55,223.4,69584.0
+1132,British Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,9,0,1,Finished (Lapped),11,14,2,29.8,51,43,236.3,89748.0
+1133,Hungarian Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,10,12,1,Finished,6,4,2,21.8,70,29,191.9,82182.0
+1134,Belgian Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,8,15,1,Finished,1,3,1,23.1,44,33,235.6,107013.0
+1135,Dutch Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,7,15,1,Finished,6,3,1,21.4,72,62,205.6,74585.0
+1136,Italian Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,10,25,2,Finished,4,1,1,26.2,53,33,250.6,83226.0
+1137,Azerbaijan Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,10,18,2,Finished,1,2,1,20.7,51,44,201.8,107067.0
+1138,Singapore Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,3,10,2,Finished,9,5,1,29.6,62,46,186.5,95371.0
+1139,United States Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,6,25,3,Finished,4,1,1,25.2,56,39,202.9,97834.0
+1140,Mexico City Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,1,16,3,Finished,4,3,1,24.3,71,71,197.8,78336.0
+1141,São Paulo Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,4,10,3,Finished,6,5,1,661.3,69,60,190.0,81631.0
+1142,Las Vegas Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,3,12,3,Finished,4,4,1,21.8,50,40,233.3,95674.0
+1143,Qatar Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,4,18,3,Finished,5,2,3,29.3,57,53,234.4,83242.0
+1144,Abu Dhabi Grand Prix,844,Charles Leclerc,Ferrari,Full-Time,9,15,3,Finished,19,3,1,24.5,58,51,216.0,88018.0
+1121,Bahrain Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,13,0,0,Finished (Lapped),14,13,2,26.6,56,37,204.7,95163.0
+1122,Saudi Arabian Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,16,0,0,Finished (Lapped),14,16,1,25.4,49,47,238.2,93323.0
+1123,Australian Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,13,0,0,Finished (Lapped),18,12,2,19.7,57,46,233.9,81239.0
+1124,Japanese Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,0,0,0,Accident,11,0,3,543.2,0,0,0.0,
+1125,Chinese Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,16,0,0,Mechanical Failure,12,0,2,25.5,33,16,194.3,100994.0
+1126,Miami Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,19,0,0,Finished,20,15,1,23.4,57,57,211.5,92122.0
+1127,Emilia Romagna Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,19,0,0,Finished (Lapped),9,13,1,30.6,62,13,216.7,81569.0
+1128,Monaco Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,0,0,0,Finished (Lapped),12,12,1,1659.6,76,0,0.0,
+1129,Canadian Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,12,4,0,Finished,5,8,2,27.0,70,68,203.7,77076.0
+1130,Spanish Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,17,0,0,Finished (Lapped),18,15,2,22.6,65,61,211.0,79450.0
+1131,Austrian Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,18,2,0,Finished,11,9,2,22.8,71,49,220.7,70426.0
+1132,British Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,15,0,0,Finished (Lapped),15,13,2,29.8,51,47,233.7,90735.0
+1133,Hungarian Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,12,0,0,Finished (Lapped),9,12,2,21.8,69,30,190.8,82640.0
+1134,Belgian Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,12,1,0,Finished,13,10,1,23.1,44,37,234.7,107435.0
+1135,Dutch Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,13,0,0,Finished (Lapped),13,12,1,21.4,71,52,203.8,75222.0
+1136,Italian Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,17,0,0,Finished,12,13,1,26.2,53,52,247.6,84219.0
+1137,Azerbaijan Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,17,0,0,Finished,14,13,1,20.7,51,39,199.4,108380.0
+1138,Singapore Grand Prix,817,Daniel Ricciardo,RB F1 Team,Substitute,1,0,0,Finished (Lapped),16,18,1,29.6,61,60,188.2,94486.0
+1121,Bahrain Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,20,0,0,Finished (Lapped),19,17,2,26.6,56,34,202.5,96226.0
+1122,Saudi Arabian Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,17,0,0,Finished (Lapped),17,13,1,25.4,49,48,237.8,93481.0
+1123,Australian Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,15,0,0,Finished (Lapped),15,16,2,19.7,57,45,233.6,81354.0
+1124,Japanese Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,13,0,0,Finished (Lapped),15,15,3,543.2,52,52,217.2,96232.0
+1125,Chinese Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,15,0,0,Finished,13,11,2,25.5,56,33,194.4,100937.0
+1126,Miami Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,16,1,0,Finished,13,10,1,23.4,57,51,211.7,92037.0
+1127,Emilia Romagna Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,16,0,0,Finished (Lapped),12,14,1,30.6,62,37,217.4,81304.0
+1128,Monaco Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,0,0,0,Accident,11,0,1,1659.6,0,0,0.0,
+1129,Canadian Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,10,1,0,Finished,18,10,2,27.0,70,70,203.9,77012.0
+1130,Spanish Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,12,1,0,Finished,8,10,2,22.6,66,54,212.3,78982.0
+1131,Austrian Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,10,0,0,Finished,10,12,2,22.8,71,45,223.2,69649.0
+1132,British Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,16,0,0,Finished (Lapped),18,16,2,29.8,50,46,233.4,90875.0
+1133,Hungarian Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,6,0,0,Finished (Lapped),19,18,2,21.8,69,66,193.3,81610.0
+1134,Belgian Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,7,2,0,Finished,9,9,1,23.1,44,43,235.7,106957.0
+1135,Dutch Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,15,0,0,Finished (Lapped),15,15,1,21.4,71,50,203.4,75390.0
+1136,Italian Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,18,0,0,Finished (Lapped),15,14,1,26.2,52,52,247.3,84343.0
+1137,Azerbaijan Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,19,0,0,Finished (Lapped),0,15,1,20.7,50,35,198.6,108831.0
+1138,Singapore Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,20,0,0,Finished (Lapped),15,13,1,29.6,61,48,181.5,97964.0
+1139,United States Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,1,0,0,Finished (Lapped),12,18,1,25.2,55,53,203.9,97330.0
+1140,Mexico City Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,10,0,0,Finished (Lapped),0,13,1,24.3,70,70,192.1,80659.0
+1141,São Paulo Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,7,18,0,Finished,4,2,1,661.3,69,64,189.7,81771.0
+1142,Las Vegas Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,9,0,0,Finished (Lapped),11,17,1,21.8,49,47,231.3,96511.0
+1143,Qatar Grand Prix,839,Esteban Ocon,Alpine F1 Team,Substitute,0,0,0,Accident,20,0,3,29.3,0,0,0.0,
+1121,Bahrain Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,3,2,0,Finished,6,9,2,26.6,57,48,206.8,94199.0
+1122,Saudi Arabian Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,13,10,0,Finished,4,5,1,25.4,50,43,240.6,92387.0
+1123,Australian Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,7,4,0,Finished,10,8,2,19.7,58,52,236.1,80493.0
+1124,Japanese Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,6,8,0,Finished,5,6,3,543.2,53,53,220.7,94726.0
+1125,Chinese Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,1,7,0,Finished,3,7,2,25.5,56,45,200.6,97810.0
+1126,Miami Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,11,2,0,Finished,15,9,1,23.4,57,55,212.4,91727.0
+1127,Emilia Romagna Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,2,0,0,Finished (Lapped),20,19,1,30.6,62,62,223.7,79004.0
+1128,Monaco Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,0,0,0,Finished (Lapped),14,11,1,1659.6,76,0,0.0,
+1129,Canadian Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,6,8,0,Finished,6,6,2,27.0,70,70,205.8,76303.0
+1130,Spanish Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,8,0,0,Finished (Lapped),10,12,2,22.6,65,50,214.0,78334.0
+1131,Austrian Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,1,0,0,Finished (Lapped),15,18,2,22.8,70,70,229.6,67694.0
+1132,British Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,7,4,0,Finished,10,8,2,29.8,52,47,236.4,89710.0
+1133,Hungarian Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,14,0,0,Finished,7,11,2,21.8,70,52,189.9,83063.0
+1134,Belgian Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,17,4,0,Finished,8,8,1,23.1,44,42,233.4,108051.0
+1135,Dutch Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,10,1,0,Finished (Lapped),7,10,1,21.4,71,34,205.1,74758.0
+1136,Italian Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,7,0,0,Finished,11,11,1,26.2,53,46,251.4,82944.0
+1137,Azerbaijan Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,8,8,0,Finished,7,6,1,20.7,51,48,201.9,107057.0
+1138,Singapore Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,18,4,0,Finished (Lapped),7,8,1,29.6,61,54,182.0,97741.0
+1139,United States Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,17,0,0,Finished (Lapped),7,13,1,25.2,55,52,199.9,99261.0
+1140,Mexico City Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,18,0,0,Other,13,0,1,24.3,15,7,187.3,82722.0
+1141,São Paulo Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,12,0,0,Finished,9,14,1,661.3,69,59,188.5,82293.0
+1142,Las Vegas Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,10,0,0,Finished,16,11,1,21.8,50,39,231.2,96553.0
+1143,Qatar Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,7,6,0,Finished,8,7,3,29.3,57,57,233.2,83667.0
+1144,Abu Dhabi Grand Prix,4,Fernando Alonso,Aston Martin,Full-Time,7,2,0,Finished,8,9,1,24.5,58,51,216.2,87948.0
+1136,Italian Grand Prix,861,Franco Colapinto,Williams,Substitute,14,0,0,Finished,18,12,1,26.2,53,53,249.1,83728.0
+1137,Azerbaijan Grand Prix,861,Franco Colapinto,Williams,Substitute,12,4,0,Finished,8,8,1,20.7,51,44,201.5,107274.0
+1138,Singapore Grand Prix,861,Franco Colapinto,Williams,Substitute,11,0,0,Finished (Lapped),12,11,1,29.6,61,35,182.8,97262.0
+1139,United States Grand Prix,861,Franco Colapinto,Williams,Substitute,2,1,0,Finished,15,10,1,25.2,56,46,203.3,97611.0
+1140,Mexico City Grand Prix,861,Franco Colapinto,Williams,Substitute,6,0,0,Finished (Lapped),16,12,1,24.3,70,50,193.5,80090.0
+1141,São Paulo Grand Prix,861,Franco Colapinto,Williams,Substitute,18,0,0,Accident,16,0,1,661.3,30,21,184.0,84296.0
+1142,Las Vegas Grand Prix,861,Franco Colapinto,Williams,Substitute,15,0,0,Finished,0,14,1,21.8,50,37,230.5,96867.0
+1143,Qatar Grand Prix,861,Franco Colapinto,Williams,Substitute,0,0,0,Accident,19,0,3,29.3,0,0,0.0,
+1144,Abu Dhabi Grand Prix,861,Franco Colapinto,Williams,Substitute,17,0,0,Mechanical Failure,20,0,1,24.5,26,5,212.6,89411.0
+1121,Bahrain Grand Prix,847,George Russell,Mercedes,Full-Time,12,10,0,Finished,3,5,2,26.6,57,40,204.9,95065.0
+1122,Saudi Arabian Grand Prix,847,George Russell,Mercedes,Full-Time,7,8,0,Finished,7,6,1,25.4,50,42,240.9,92254.0
+1123,Australian Grand Prix,847,George Russell,Mercedes,Full-Time,5,0,0,Accident,7,17,2,19.7,56,53,236.7,80284.0
+1124,Japanese Grand Prix,847,George Russell,Mercedes,Full-Time,5,6,0,Finished,9,7,3,543.2,53,39,221.4,94404.0
+1125,Chinese Grand Prix,847,George Russell,Mercedes,Full-Time,11,8,0,Finished,8,6,2,25.5,56,39,196.0,100112.0
+1126,Miami Grand Prix,847,George Russell,Mercedes,Full-Time,13,4,0,Finished,7,8,1,23.4,57,43,212.0,91921.0
+1127,Emilia Romagna Grand Prix,847,George Russell,Mercedes,Full-Time,1,7,0,Finished,6,7,1,30.6,63,54,224.9,78589.0
+1128,Monaco Grand Prix,847,George Russell,Mercedes,Full-Time,0,10,0,Finished,5,5,1,1659.6,78,0,0.0,
+1129,Canadian Grand Prix,847,George Russell,Mercedes,Full-Time,2,15,0,Finished,1,3,2,27.0,70,70,209.6,74895.0
+1130,Spanish Grand Prix,847,George Russell,Mercedes,Full-Time,7,12,0,Finished,4,4,2,22.6,66,50,214.1,78290.0
+1131,Austrian Grand Prix,847,George Russell,Mercedes,Full-Time,5,25,1,Finished,3,1,2,22.8,71,48,224.8,69164.0
+1132,British Grand Prix,847,George Russell,Mercedes,Full-Time,19,0,1,Mechanical Failure,1,0,2,29.8,33,3,232.3,91298.0
+1133,Hungarian Grand Prix,847,George Russell,Mercedes,Full-Time,1,5,1,Finished,17,8,2,21.8,70,55,196.4,80305.0
+1134,Belgian Grand Prix,847,George Russell,Mercedes,Full-Time,10,0,1,Other,6,0,1,23.1,44,44,235.4,107113.0
+1135,Dutch Grand Prix,847,George Russell,Mercedes,Full-Time,3,6,1,Finished,4,7,1,21.4,72,57,207.4,73927.0
+1136,Italian Grand Prix,847,George Russell,Mercedes,Full-Time,5,6,1,Finished,3,7,1,26.2,53,49,254.2,82036.0
+1137,Azerbaijan Grand Prix,847,George Russell,Mercedes,Full-Time,2,15,1,Finished,5,3,1,20.7,51,45,202.7,106628.0
+1138,Singapore Grand Prix,847,George Russell,Mercedes,Full-Time,10,12,1,Finished,4,4,1,29.6,62,30,183.3,97047.0
+1139,United States Grand Prix,847,George Russell,Mercedes,Full-Time,3,8,1,Finished,20,6,1,25.2,56,42,203.2,97656.0
+1140,Mexico City Grand Prix,847,George Russell,Mercedes,Full-Time,11,10,1,Finished,5,5,1,24.3,71,63,191.9,80731.0
+1141,São Paulo Grand Prix,847,George Russell,Mercedes,Full-Time,6,12,1,Finished,2,4,1,661.3,69,66,190.0,81645.0
+1142,Las Vegas Grand Prix,847,George Russell,Mercedes,Full-Time,4,25,2,Finished,1,1,1,21.8,50,46,233.2,95717.0
+1143,Qatar Grand Prix,847,George Russell,Mercedes,Full-Time,5,12,2,Finished,1,4,3,29.3,57,50,234.0,83355.0
+1144,Abu Dhabi Grand Prix,847,George Russell,Mercedes,Full-Time,10,10,2,Finished,6,5,1,24.5,58,56,215.6,88195.0
+1121,Bahrain Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,14,0,0,Finished (Lapped),17,11,2,26.6,56,30,204.1,95458.0
+1122,Saudi Arabian Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,6,0,0,Finished (Lapped),20,18,1,25.4,49,49,241.0,92208.0
+1123,Australian Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,14,0,0,Finished (Lapped),19,15,2,19.7,57,49,233.6,81327.0
+1124,Japanese Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,18,0,0,Mechanical Failure,20,0,3,543.2,12,9,215.2,97160.0
+1125,Chinese Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,3,0,0,Finished,16,14,2,25.5,56,42,199.0,98633.0
+1126,Miami Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,15,0,0,Finished,19,14,1,23.4,57,56,211.8,91991.0
+1127,Emilia Romagna Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,13,0,0,Finished (Lapped),17,15,1,30.6,62,37,218.1,81016.0
+1128,Monaco Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,0,0,0,Finished (Lapped),18,16,1,1659.6,76,0,0.0,
+1129,Canadian Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,15,0,0,Finished (Lapped),0,15,2,27.0,69,68,203.0,77325.0
+1130,Spanish Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,11,0,0,Finished (Lapped),15,13,2,22.6,65,50,212.8,78771.0
+1131,Austrian Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,20,0,0,Finished (Lapped),20,17,2,22.8,70,54,220.6,70470.0
+1132,British Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,17,0,0,Finished (Lapped),14,18,2,29.8,50,43,233.0,91014.0
+1133,Hungarian Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,17,0,0,Finished (Lapped),18,19,2,21.8,69,38,188.9,83487.0
+1134,Belgian Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,20,0,0,Mechanical Failure,19,0,1,23.1,5,2,224.9,112099.0
+1135,Dutch Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,19,0,0,Finished (Lapped),17,20,1,21.4,70,67,202.5,75724.0
+1136,Italian Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,19,0,0,Finished (Lapped),20,18,1,26.2,52,17,245.1,85092.0
+1137,Azerbaijan Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,13,0,0,Finished,17,14,1,20.7,51,43,200.8,107644.0
+1138,Singapore Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,14,0,0,Finished (Lapped),20,15,1,29.6,61,47,182.5,97461.0
+1139,United States Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,18,0,0,Finished (Lapped),18,19,1,25.2,55,53,199.9,99272.0
+1140,Mexico City Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,17,0,0,Finished (Lapped),19,15,1,24.3,70,56,190.0,81553.0
+1141,São Paulo Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,15,0,0,Finished,19,15,1,661.3,69,65,186.8,83058.0
+1142,Las Vegas Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,7,0,0,Finished,13,13,1,21.8,50,46,231.8,96324.0
+1143,Qatar Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,10,4,0,Finished,12,8,3,29.3,57,57,232.6,83889.0
+1144,Abu Dhabi Grand Prix,855,Guanyu Zhou,Sauber,Full-Time,8,0,0,Finished (Lapped),15,13,1,24.5,57,56,216.1,87982.0
+1144,Abu Dhabi Grand Prix,862,Jack Doohan,Alpine F1 Team,Substitute,13,0,0,Finished (Lapped),17,15,1,24.5,57,56,213.3,89121.0
+1121,Bahrain Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,15,0,0,Finished (Lapped),15,12,2,26.6,56,34,203.9,95570.0
+1122,Saudi Arabian Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,11,0,0,Finished,13,12,1,25.4,50,47,240.7,92338.0
+1123,Australian Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,9,1,0,Finished (Lapped),14,10,2,19.7,57,44,234.3,81082.0
+1124,Japanese Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,17,0,0,Finished (Lapped),18,13,3,543.2,52,24,216.3,96654.0
+1125,Chinese Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,18,0,0,Finished,17,16,2,25.5,56,45,194.1,101077.0
+1126,Miami Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,12,0,0,Finished,18,19,1,23.4,57,33,212.3,91774.0
+1127,Emilia Romagna Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,12,0,0,Finished (Lapped),18,12,1,30.6,62,58,218.2,81009.0
+1128,Monaco Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,0,0,0,Accident,20,0,1,1659.6,0,0,0.0,
+1129,Canadian Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,7,0,0,Finished,14,12,2,27.0,70,68,205.2,76499.0
+1130,Spanish Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,19,0,0,Finished (Lapped),16,17,2,22.6,65,33,210.1,79805.0
+1131,Austrian Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,12,4,0,Finished,12,8,2,22.8,71,45,221.7,70125.0
+1132,British Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,13,0,0,Finished,17,12,2,29.8,52,42,235.4,90093.0
+1133,Hungarian Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,19,0,0,Finished (Lapped),15,15,2,21.8,69,50,188.8,83553.0
+1134,Belgian Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,14,0,0,Finished,17,14,1,23.1,44,44,233.8,107848.0
+1135,Dutch Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,12,0,0,Finished (Lapped),0,18,1,21.4,71,42,204.6,74954.0
+1136,Italian Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,12,1,0,Finished,13,10,1,26.2,53,51,249.9,83437.0
+1138,Singapore Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,13,0,0,Accident,14,19,1,29.6,57,52,182.5,97425.0
+1139,United States Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,10,0,0,Finished,8,11,1,25.2,56,56,202.1,98210.0
+1140,Mexico City Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,9,6,0,Finished,7,7,1,24.3,71,61,192.2,80637.0
+1142,Las Vegas Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,11,0,0,Finished,12,12,1,21.8,50,49,231.2,96557.0
+1143,Qatar Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,11,2,0,Finished,10,9,3,29.3,57,55,231.5,84259.0
+1144,Abu Dhabi Grand Prix,825,Kevin Magnussen,Haas F1 Team,Substitute,1,0,0,Finished (Lapped),14,16,1,24.5,57,57,222.0,85637.0
+1121,Bahrain Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,16,1,0,Finished,12,10,2,26.6,57,30,203.7,95632.0
+1122,Saudi Arabian Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,19,0,0,Accident,10,0,1,25.4,5,5,232.6,95560.0
+1123,Australian Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,8,8,0,Finished,9,6,2,19.7,58,49,234.8,80930.0
+1124,Japanese Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,12,0,0,Finished (Lapped),16,12,3,543.2,52,41,218.2,95798.0
+1125,Chinese Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,8,0,0,Finished,11,15,2,25.5,56,37,197.3,99444.0
+1126,Miami Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,9,0,0,Finished,11,17,1,23.4,57,57,212.7,91588.0
+1127,Emilia Romagna Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,10,2,0,Finished,13,9,1,30.6,63,58,219.3,80570.0
+1128,Monaco Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,0,0,0,Finished (Lapped),13,14,1,1659.6,76,0,0.0,
+1129,Canadian Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,9,6,0,Finished,9,7,2,27.0,70,70,204.5,76762.0
+1130,Spanish Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,15,0,0,Finished (Lapped),14,14,2,22.6,65,50,211.4,79318.0
+1131,Austrian Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,13,0,0,Finished (Lapped),17,13,2,22.8,70,54,221.6,70143.0
+1132,British Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,11,6,0,Finished,8,7,2,29.8,52,46,235.9,89897.0
+1133,Hungarian Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,11,1,0,Finished,8,10,2,21.8,70,48,191.5,82338.0
+1134,Belgian Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,18,0,0,Finished,15,11,1,23.1,44,44,233.2,108105.0
+1135,Dutch Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,14,0,0,Finished (Lapped),8,13,1,21.4,71,51,203.7,75255.0
+1136,Italian Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,6,0,0,Finished (Lapped),17,19,1,26.2,52,52,253.6,82232.0
+1137,Azerbaijan Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,16,0,0,Mechanical Failure,13,19,1,20.7,45,31,199.8,108148.0
+1138,Singapore Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,19,0,0,Finished (Lapped),17,14,1,29.6,61,36,181.7,97851.0
+1139,United States Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,16,0,0,Finished (Lapped),13,15,1,25.2,55,54,200.0,99214.0
+1140,Mexico City Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,16,0,0,Finished (Lapped),14,11,1,24.3,70,55,190.6,81311.0
+1141,São Paulo Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,0,0,0,Other,10,0,1,661.3,0,0,0.0,
+1142,Las Vegas Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,18,0,0,Finished,18,15,1,21.8,50,43,229.7,97179.0
+1143,Qatar Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,18,0,0,Other,15,0,3,29.3,8,6,214.5,90935.0
+1144,Abu Dhabi Grand Prix,840,Lance Stroll,Aston Martin,Full-Time,11,0,0,Finished (Lapped),13,14,1,24.5,57,42,214.6,88604.0
+1121,Bahrain Grand Prix,846,Lando Norris,McLaren,Full-Time,5,8,0,Finished,7,6,2,26.6,57,1,206.2,94476.0
+1122,Saudi Arabian Grand Prix,846,Lando Norris,McLaren,Full-Time,4,4,0,Finished,6,8,1,25.4,50,1,241.7,91944.0
+1123,Australian Grand Prix,846,Lando Norris,McLaren,Full-Time,2,15,0,Finished,3,3,2,19.7,58,1,237.8,79915.0
+1124,Japanese Grand Prix,846,Lando Norris,McLaren,Full-Time,10,10,0,Finished,3,5,3,543.2,53,1,219.6,95186.0
+1125,Chinese Grand Prix,846,Lando Norris,McLaren,Full-Time,4,18,0,Finished,4,2,2,25.5,56,1,198.7,98751.0
+1126,Miami Grand Prix,846,Lando Norris,McLaren,Full-Time,5,25,1,Finished,5,1,1,23.4,57,55,214.1,90980.0
+1127,Emilia Romagna Grand Prix,846,Lando Norris,McLaren,Full-Time,6,18,1,Finished,2,2,1,30.6,63,54,220.9,79994.0
+1128,Monaco Grand Prix,846,Lando Norris,McLaren,Full-Time,0,12,1,Finished,4,4,1,1659.6,78,0,0.0,
+1129,Canadian Grand Prix,846,Lando Norris,McLaren,Full-Time,3,18,1,Finished,3,2,2,27.0,70,67,207.8,75558.0
+1130,Spanish Grand Prix,846,Lando Norris,McLaren,Full-Time,1,19,1,Finished,1,2,2,22.6,66,51,217.4,77115.0
+1131,Austrian Grand Prix,846,Lando Norris,McLaren,Full-Time,3,0,1,Other,2,20,2,22.8,64,53,228.5,68016.0
+1132,British Grand Prix,846,Lando Norris,McLaren,Full-Time,4,15,1,Finished,3,3,2,29.8,52,43,237.6,89262.0
+1133,Hungarian Grand Prix,846,Lando Norris,McLaren,Full-Time,7,18,1,Finished,1,2,2,21.8,70,50,193.0,81712.0
+1134,Belgian Grand Prix,846,Lando Norris,McLaren,Full-Time,2,10,1,Finished,4,5,1,23.1,44,31,238.9,105563.0
+1135,Dutch Grand Prix,846,Lando Norris,McLaren,Full-Time,1,26,2,Finished,1,1,1,21.4,72,72,207.7,73817.0
+1136,Italian Grand Prix,846,Lando Norris,McLaren,Full-Time,1,16,2,Finished,1,3,1,26.2,53,53,256.1,81432.0
+1137,Azerbaijan Grand Prix,846,Lando Norris,McLaren,Full-Time,1,13,2,Finished,15,4,1,20.7,51,42,205.3,105255.0
+1138,Singapore Grand Prix,846,Lando Norris,McLaren,Full-Time,2,25,3,Finished,1,1,1,29.6,62,48,187.3,94925.0
+1139,United States Grand Prix,846,Lando Norris,McLaren,Full-Time,4,12,3,Finished,1,4,1,25.2,56,55,203.2,97679.0
+1140,Mexico City Grand Prix,846,Lando Norris,McLaren,Full-Time,4,18,3,Finished,3,2,1,24.3,71,68,194.4,79691.0
+1141,São Paulo Grand Prix,846,Lando Norris,McLaren,Full-Time,2,8,3,Finished,1,6,1,661.3,69,67,190.3,81517.0
+1142,Las Vegas Grand Prix,846,Lando Norris,McLaren,Full-Time,1,9,3,Finished,6,6,1,21.8,50,50,235.3,94876.0
+1143,Qatar Grand Prix,846,Lando Norris,McLaren,Full-Time,1,2,3,Finished,3,10,3,29.3,57,56,236.8,82384.0
+1144,Abu Dhabi Grand Prix,846,Lando Norris,McLaren,Full-Time,3,25,4,Finished,1,1,1,24.5,58,52,217.4,87438.0
+1121,Bahrain Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,7,6,0,Finished,9,7,2,26.6,57,39,205.7,94722.0
+1122,Saudi Arabian Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,2,2,0,Finished,8,9,1,25.4,50,38,242.3,91746.0
+1123,Australian Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,18,0,0,Mechanical Failure,11,0,2,19.7,15,11,230.5,82444.0
+1124,Japanese Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,4,2,0,Finished,7,9,3,543.2,53,41,222.5,93952.0
+1125,Chinese Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,14,2,0,Finished,18,9,2,25.5,56,34,194.6,100835.0
+1126,Miami Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,7,8,0,Finished,8,6,1,23.4,57,54,213.6,91233.0
+1127,Emilia Romagna Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,8,8,0,Finished,8,6,1,30.6,63,43,220.0,80331.0
+1128,Monaco Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,0,7,0,Finished,7,7,1,1659.6,78,0,0.0,
+1129,Canadian Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,1,13,0,Finished,7,4,2,27.0,70,70,209.7,74856.0
+1130,Spanish Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,4,15,0,Finished,3,3,2,22.6,66,46,215.5,77809.0
+1131,Austrian Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,7,12,0,Finished,5,4,2,22.8,71,61,223.5,69562.0
+1132,British Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,5,25,1,Finished,2,1,2,29.8,52,45,237.1,89438.0
+1133,Hungarian Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,9,15,1,Finished,5,3,2,21.8,70,54,192.0,82153.0
+1134,Belgian Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,6,25,2,Finished,3,1,1,23.1,44,33,236.4,106653.0
+1135,Dutch Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,2,4,2,Finished,14,8,1,21.4,72,62,207.5,73878.0
+1136,Italian Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,2,10,2,Finished,6,5,1,26.2,53,53,255.8,81512.0
+1137,Azerbaijan Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,11,2,2,Finished,0,9,1,20.7,51,48,201.5,107236.0
+1138,Singapore Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,12,8,2,Finished,3,6,1,29.6,62,43,182.6,97393.0
+1139,United States Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,0,0,2,Accident,17,0,1,25.2,1,0,0.0,
+1140,Mexico City Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,8,12,2,Finished,6,4,1,24.3,71,31,192.8,80371.0
+1141,São Paulo Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,9,1,2,Finished,14,10,1,661.3,69,69,189.1,82041.0
+1142,Las Vegas Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,2,18,2,Finished,10,2,1,21.8,50,41,233.8,95480.0
+1143,Qatar Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,9,0,2,Finished,6,12,3,29.3,57,52,232.6,83865.0
+1144,Abu Dhabi Grand Prix,1,Lewis Hamilton,Mercedes,Full-Time,2,12,2,Finished,16,4,1,24.5,58,44,217.8,87278.0
+1139,United States Grand Prix,859,Liam Lawson,RB F1 Team,Substitute,8,2,0,Finished,19,9,1,25.2,56,54,202.3,98091.0
+1140,Mexico City Grand Prix,859,Liam Lawson,RB F1 Team,Substitute,3,0,0,Finished (Lapped),12,16,1,24.3,70,67,194.9,79502.0
+1141,São Paulo Grand Prix,859,Liam Lawson,RB F1 Team,Substitute,10,2,0,Finished,5,9,1,661.3,69,67,188.9,82123.0
+1142,Las Vegas Grand Prix,859,Liam Lawson,RB F1 Team,Substitute,17,0,0,Finished,14,16,1,21.8,50,45,230.2,96980.0
+1143,Qatar Grand Prix,859,Liam Lawson,RB F1 Team,Substitute,16,0,0,Finished,17,14,3,29.3,57,46,226.6,86076.0
+1144,Abu Dhabi Grand Prix,859,Liam Lawson,RB F1 Team,Substitute,12,0,0,Mechanical Failure,12,17,1,24.5,55,52,214.2,88751.0
+1121,Bahrain Grand Prix,858,Logan Sargeant,Williams,Substitute,8,0,0,Finished (Lapped),18,20,2,26.6,55,42,205.7,94735.0
+1122,Saudi Arabian Grand Prix,858,Logan Sargeant,Williams,Substitute,18,0,0,Finished (Lapped),19,14,1,25.4,49,44,237.7,93523.0
+1124,Japanese Grand Prix,858,Logan Sargeant,Williams,Substitute,8,0,0,Finished (Lapped),19,17,3,543.2,52,43,220.3,94900.0
+1125,Chinese Grand Prix,858,Logan Sargeant,Williams,Substitute,17,0,0,Finished,20,17,2,25.5,56,14,194.3,101000.0
+1126,Miami Grand Prix,858,Logan Sargeant,Williams,Substitute,20,0,0,Accident,17,0,1,23.4,27,15,208.5,93452.0
+1127,Emilia Romagna Grand Prix,858,Logan Sargeant,Williams,Substitute,14,0,0,Finished (Lapped),19,17,1,30.6,62,55,217.6,81229.0
+1128,Monaco Grand Prix,858,Logan Sargeant,Williams,Substitute,0,0,0,Finished (Lapped),15,15,1,1659.6,76,0,0.0,
+1129,Canadian Grand Prix,858,Logan Sargeant,Williams,Substitute,20,0,0,Accident,13,0,2,27.0,23,19,181.5,86484.0
+1130,Spanish Grand Prix,858,Logan Sargeant,Williams,Substitute,20,0,0,Finished (Lapped),19,20,2,22.6,64,38,209.1,80172.0
+1131,Austrian Grand Prix,858,Logan Sargeant,Williams,Substitute,17,0,0,Finished (Lapped),19,19,2,22.8,69,60,220.8,70406.0
+1132,British Grand Prix,858,Logan Sargeant,Williams,Substitute,12,0,0,Finished,12,11,2,29.8,52,42,235.7,89972.0
+1133,Hungarian Grand Prix,858,Logan Sargeant,Williams,Substitute,2,0,0,Finished (Lapped),14,17,2,21.8,69,65,195.8,80561.0
+1134,Belgian Grand Prix,858,Logan Sargeant,Williams,Substitute,13,0,0,Finished,18,17,1,23.1,44,43,234.6,107490.0
+1135,Dutch Grand Prix,858,Logan Sargeant,Williams,Substitute,16,0,0,Finished (Lapped),18,16,1,21.4,71,26,203.0,75539.0
+1121,Bahrain Grand Prix,830,Max Verstappen,Red Bull,Full-Time,1,26,1,Finished,1,1,2,26.6,57,39,210.4,92608.0
+1122,Saudi Arabian Grand Prix,830,Max Verstappen,Red Bull,Full-Time,3,25,2,Finished,1,1,1,25.4,50,50,242.2,91773.0
+1123,Australian Grand Prix,830,Max Verstappen,Red Bull,Full-Time,19,0,2,Other,1,0,2,19.7,3,3,228.6,83115.0
+1124,Japanese Grand Prix,830,Max Verstappen,Red Bull,Full-Time,1,26,3,Finished,1,1,3,543.2,53,50,223.1,93706.0
+1125,Chinese Grand Prix,830,Max Verstappen,Red Bull,Full-Time,2,25,4,Finished,1,1,2,25.5,56,33,199.4,98406.0
+1126,Miami Grand Prix,830,Max Verstappen,Red Bull,Full-Time,8,18,4,Finished,1,2,1,23.4,57,48,213.5,91261.0
+1127,Emilia Romagna Grand Prix,830,Max Verstappen,Red Bull,Full-Time,9,25,5,Finished,1,1,1,30.6,63,38,219.9,80366.0
+1128,Monaco Grand Prix,830,Max Verstappen,Red Bull,Full-Time,0,8,5,Finished,6,6,1,1659.6,78,0,0.0,
+1129,Canadian Grand Prix,830,Max Verstappen,Red Bull,Full-Time,4,25,6,Finished,2,1,2,27.0,70,70,207.8,75569.0
+1130,Spanish Grand Prix,830,Max Verstappen,Red Bull,Full-Time,2,25,7,Finished,2,1,2,22.6,66,54,215.6,77776.0
+1131,Austrian Grand Prix,830,Max Verstappen,Red Bull,Full-Time,2,10,7,Finished,1,5,2,22.8,71,68,229.5,67719.0
+1132,British Grand Prix,830,Max Verstappen,Red Bull,Full-Time,3,18,7,Finished,4,2,2,29.8,52,48,238.4,88952.0
+1133,Hungarian Grand Prix,830,Max Verstappen,Red Bull,Full-Time,3,10,7,Finished,3,5,2,21.8,70,51,194.9,80908.0
+1134,Belgian Grand Prix,830,Max Verstappen,Red Bull,Full-Time,4,12,7,Finished,11,4,1,23.1,44,32,237.6,106128.0
+1135,Dutch Grand Prix,830,Max Verstappen,Red Bull,Full-Time,9,18,7,Finished,2,2,1,21.4,72,30,205.1,74752.0
+1136,Italian Grand Prix,830,Max Verstappen,Red Bull,Full-Time,3,8,7,Finished,7,6,1,26.2,53,43,255.1,81745.0
+1137,Azerbaijan Grand Prix,830,Max Verstappen,Red Bull,Full-Time,3,10,7,Finished,6,5,1,20.7,51,42,202.4,106798.0
+1138,Singapore Grand Prix,830,Max Verstappen,Red Bull,Full-Time,5,18,7,Finished,2,2,1,29.6,62,59,185.3,95967.0
+1139,United States Grand Prix,830,Max Verstappen,Red Bull,Full-Time,9,15,7,Finished,2,3,1,25.2,56,42,202.3,98117.0
+1140,Mexico City Grand Prix,830,Max Verstappen,Red Bull,Full-Time,13,8,7,Finished,2,6,1,24.3,71,53,191.6,80872.0
+1141,São Paulo Grand Prix,830,Max Verstappen,Red Bull,Full-Time,1,26,8,Finished,17,1,1,661.3,69,67,192.8,80472.0
+1142,Las Vegas Grand Prix,830,Max Verstappen,Red Bull,Full-Time,6,10,8,Finished,5,5,1,21.8,50,43,231.9,96248.0
+1143,Qatar Grand Prix,830,Max Verstappen,Red Bull,Full-Time,2,25,9,Finished,2,1,3,29.3,57,55,235.3,82905.0
+1144,Abu Dhabi Grand Prix,830,Max Verstappen,Red Bull,Full-Time,6,8,9,Finished,4,6,1,24.5,58,56,216.6,87765.0
+1121,Bahrain Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,10,0,0,Finished (Lapped),10,16,2,26.6,56,46,205.4,94834.0
+1122,Saudi Arabian Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,12,1,0,Finished,15,10,1,25.4,50,49,240.6,92366.0
+1123,Australian Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,12,2,0,Finished,16,9,2,19.7,58,46,234.2,81145.0
+1124,Japanese Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,11,0,0,Finished (Lapped),12,11,3,543.2,52,52,219.3,95325.0
+1125,Chinese Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,13,1,0,Finished,9,10,2,25.5,56,32,194.6,100815.0
+1126,Miami Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,14,0,0,Finished,9,11,1,23.4,57,56,211.9,91941.0
+1127,Emilia Romagna Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,20,0,0,Finished (Lapped),10,11,1,30.6,62,3,216.3,81700.0
+1128,Monaco Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,0,0,0,Accident,19,0,1,1659.6,0,0,0.0,
+1129,Canadian Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,8,0,0,Finished,17,11,2,27.0,70,67,204.7,76683.0
+1130,Spanish Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,10,0,0,Finished,13,11,2,22.6,66,49,213.3,78609.0
+1131,Austrian Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,14,8,0,Finished,9,6,2,22.8,71,51,221.4,70215.0
+1132,British Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,10,8,0,Finished,6,6,2,29.8,52,43,236.1,89836.0
+1133,Hungarian Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,16,0,0,Finished (Lapped),11,13,2,21.8,69,54,189.0,83461.0
+1134,Belgian Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,19,0,0,Finished,16,18,1,23.1,44,44,231.4,108954.0
+1135,Dutch Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,18,0,0,Finished (Lapped),12,11,1,21.4,71,59,202.7,75657.0
+1136,Italian Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,11,0,0,Finished (Lapped),10,17,1,26.2,52,44,250.4,83275.0
+1137,Azerbaijan Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,14,0,0,Finished,12,11,1,20.7,51,42,200.7,107691.0
+1138,Singapore Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,15,2,0,Finished (Lapped),6,9,1,29.6,61,35,182.5,97470.0
+1139,United States Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,12,4,0,Finished,11,8,1,25.2,56,51,201.7,98404.0
+1140,Mexico City Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,12,2,0,Finished (Lapped),10,9,1,24.3,70,69,191.9,80748.0
+1141,São Paulo Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,16,0,0,Other,17,0,1,661.3,0,21,185.2,83764.0
+1142,Las Vegas Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,12,4,0,Finished,9,8,1,21.8,50,48,231.1,96585.0
+1143,Qatar Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,15,0,0,Accident,18,0,3,29.3,39,33,227.5,85767.0
+1144,Abu Dhabi Grand Prix,807,Nico Hülkenberg,Haas F1 Team,Full-Time,14,4,0,Finished,7,8,1,24.5,58,17,213.2,89152.0
+1122,Saudi Arabian Grand Prix,860,Oliver Bearman,Ferrari,Substitute,5,6,0,Finished,11,7,1,25.4,50,50,241.1,92186.0
+1137,Azerbaijan Grand Prix,860,Oliver Bearman,Haas F1 Team,Substitute,7,1,0,Finished,10,10,1,20.7,51,47,201.9,107048.0
+1141,São Paulo Grand Prix,860,Oliver Bearman,Haas F1 Team,Substitute,13,0,0,Finished,15,12,1,661.3,69,64,188.0,82494.0
+1121,Bahrain Grand Prix,857,Oscar Piastri,McLaren,Full-Time,11,4,0,Finished,8,8,2,26.6,57,1,205.1,94983.0
+1122,Saudi Arabian Grand Prix,857,Oscar Piastri,McLaren,Full-Time,10,12,0,Finished,5,4,1,25.4,50,1,240.8,92310.0
+1123,Australian Grand Prix,857,Oscar Piastri,McLaren,Full-Time,4,12,0,Finished,5,4,2,19.7,58,1,236.9,80199.0
+1124,Japanese Grand Prix,857,Oscar Piastri,McLaren,Full-Time,7,4,0,Finished,6,8,3,543.2,53,1,220.5,94802.0
+1125,Chinese Grand Prix,857,Oscar Piastri,McLaren,Full-Time,9,4,0,Finished,5,8,2,25.5,56,1,196.7,99739.0
+1126,Miami Grand Prix,857,Oscar Piastri,McLaren,Full-Time,1,0,0,Finished,6,13,1,23.4,57,43,215.0,90634.0
+1127,Emilia Romagna Grand Prix,857,Oscar Piastri,McLaren,Full-Time,4,12,0,Finished,5,4,1,30.6,63,25,221.2,79907.0
+1128,Monaco Grand Prix,857,Oscar Piastri,McLaren,Full-Time,0,18,0,Finished,2,2,1,1659.6,78,0,0.0,
+1129,Canadian Grand Prix,857,Oscar Piastri,McLaren,Full-Time,5,10,0,Finished,4,5,2,27.0,70,65,205.9,76247.0
+1130,Spanish Grand Prix,857,Oscar Piastri,McLaren,Full-Time,5,6,0,Finished,9,7,2,22.6,66,56,215.3,77874.0
+1131,Austrian Grand Prix,857,Oscar Piastri,McLaren,Full-Time,4,18,0,Finished,7,2,2,22.8,71,56,226.3,68697.0
+1132,British Grand Prix,857,Oscar Piastri,McLaren,Full-Time,2,12,0,Finished,5,4,2,29.8,52,51,239.0,88748.0
+1133,Hungarian Grand Prix,857,Oscar Piastri,McLaren,Full-Time,8,25,1,Finished,2,1,2,21.8,70,51,193.0,81716.0
+1134,Belgian Grand Prix,857,Oscar Piastri,McLaren,Full-Time,3,18,1,Finished,5,2,1,23.1,44,32,238.2,105840.0
+1135,Dutch Grand Prix,857,Oscar Piastri,McLaren,Full-Time,5,12,1,Finished,3,4,1,21.4,72,36,206.5,74237.0
+1136,Italian Grand Prix,857,Oscar Piastri,McLaren,Full-Time,4,18,1,Finished,2,2,1,26.2,53,53,254.5,81943.0
+1137,Azerbaijan Grand Prix,857,Oscar Piastri,McLaren,Full-Time,9,25,2,Finished,2,1,1,20.7,51,47,201.9,107060.0
+1138,Singapore Grand Prix,857,Oscar Piastri,McLaren,Full-Time,4,15,2,Finished,5,3,1,29.6,62,48,185.7,95745.0
+1139,United States Grand Prix,857,Oscar Piastri,McLaren,Full-Time,7,10,2,Finished,5,5,1,25.2,56,42,202.8,97883.0
+1140,Mexico City Grand Prix,857,Oscar Piastri,McLaren,Full-Time,5,4,2,Finished,17,8,1,24.3,71,65,193.5,80064.0
+1141,São Paulo Grand Prix,857,Oscar Piastri,McLaren,Full-Time,3,4,2,Finished,8,8,1,661.3,69,69,190.3,81532.0
+1142,Las Vegas Grand Prix,857,Oscar Piastri,McLaren,Full-Time,13,6,2,Finished,8,7,1,21.8,50,44,231.1,96598.0
+1143,Qatar Grand Prix,857,Oscar Piastri,McLaren,Full-Time,3,15,2,Finished,4,3,3,29.3,57,51,234.4,83218.0
+1144,Abu Dhabi Grand Prix,857,Oscar Piastri,McLaren,Full-Time,4,1,2,Finished,2,10,1,24.5,58,51,216.8,87690.0
+1121,Bahrain Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,9,0,0,Finished (Lapped),20,18,2,26.6,56,45,205.5,94805.0
+1122,Saudi Arabian Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,0,0,0,Mechanical Failure,18,0,1,25.4,1,0,0.0,
+1123,Australian Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,10,0,0,Finished (Lapped),17,13,2,19.7,57,51,234.3,81090.0
+1124,Japanese Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,16,0,0,Finished (Lapped),17,16,3,543.2,52,48,216.3,96642.0
+1125,Chinese Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,5,0,0,Finished,15,13,2,25.5,56,40,197.8,99198.0
+1126,Miami Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,17,0,0,Finished,12,12,1,23.4,57,56,211.6,92055.0
+1127,Emilia Romagna Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,17,0,0,Finished (Lapped),15,16,1,30.6,62,10,217.2,81371.0
+1128,Monaco Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,0,1,0,Finished (Lapped),10,10,1,1659.6,77,0,0.0,
+1129,Canadian Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,11,2,0,Finished,15,9,2,27.0,70,70,203.9,77013.0
+1130,Spanish Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,13,2,0,Finished,7,9,2,22.6,66,51,212.1,79045.0
+1131,Austrian Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,9,1,0,Finished,13,10,2,22.8,71,45,223.3,69609.0
+1132,British Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,0,0,0,Mechanical Failure,19,0,2,29.8,0,0,0.0,
+1133,Hungarian Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,15,0,0,Mechanical Failure,0,0,2,21.8,33,31,189.2,83340.0
+1134,Belgian Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,11,0,0,Finished,12,13,1,23.1,44,30,234.7,107418.0
+1135,Dutch Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,11,2,0,Finished (Lapped),9,9,1,21.4,71,54,204.8,74855.0
+1136,Italian Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,15,0,0,Finished (Lapped),14,15,1,26.2,52,51,249.0,83755.0
+1137,Azerbaijan Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,15,0,0,Finished,18,12,1,20.7,51,47,200.1,108018.0
+1138,Singapore Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,9,0,0,Finished (Lapped),18,17,1,29.6,61,46,183.5,96927.0
+1139,United States Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,11,0,0,Finished,6,12,1,25.2,56,55,201.9,98311.0
+1140,Mexico City Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,15,1,0,Finished (Lapped),8,10,1,24.3,70,67,190.6,81274.0
+1141,São Paulo Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,5,15,0,Finished,13,3,1,661.3,69,66,190.0,81645.0
+1142,Las Vegas Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,20,0,0,Mechanical Failure,3,0,1,21.8,15,13,227.1,98314.0
+1143,Qatar Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,8,10,0,Finished,11,5,3,29.3,57,56,233.1,83705.0
+1144,Abu Dhabi Grand Prix,842,Pierre Gasly,Alpine F1 Team,Full-Time,16,6,0,Finished,5,7,1,24.5,58,30,213.0,89251.0
+1121,Bahrain Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,4,18,0,Finished,5,2,2,26.6,57,40,206.5,94364.0
+1122,Saudi Arabian Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,8,18,0,Finished,3,2,1,25.4,50,37,240.9,92273.0
+1123,Australian Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,6,10,0,Finished,6,5,2,19.7,58,47,236.4,80388.0
+1124,Japanese Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,3,18,0,Finished,2,2,3,543.2,53,35,222.5,93945.0
+1125,Chinese Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,7,15,0,Finished,2,3,2,25.5,56,33,197.4,99388.0
+1126,Miami Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,3,12,0,Finished,4,4,1,23.4,57,55,214.4,90855.0
+1127,Emilia Romagna Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,3,4,0,Finished,11,8,1,30.6,63,52,221.8,79686.0
+1128,Monaco Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,0,0,0,Accident,16,0,1,1659.6,0,0,0.0,
+1129,Canadian Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,16,0,0,Accident,16,0,2,27.0,51,51,199.2,78819.0
+1130,Spanish Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,3,4,0,Finished,11,8,2,22.6,66,51,215.5,77785.0
+1131,Austrian Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,11,6,0,Finished,8,7,2,22.8,71,56,223.0,69694.0
+1132,British Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,6,0,0,Finished (Lapped),0,17,2,29.8,50,50,236.4,89707.0
+1133,Hungarian Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,4,6,0,Finished,16,7,2,21.8,70,49,194.5,81096.0
+1134,Belgian Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,1,7,0,Finished,2,7,1,23.1,44,44,240.8,104701.0
+1135,Dutch Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,8,8,0,Finished,5,6,1,21.4,72,69,205.6,74587.0
+1136,Italian Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,8,4,0,Finished,8,8,1,26.2,53,47,251.4,82971.0
+1137,Azerbaijan Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,6,0,0,Mechanical Failure,4,17,1,20.7,49,46,201.9,107013.0
+1138,Singapore Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,16,1,0,Finished (Lapped),13,10,1,29.6,61,33,182.4,97477.0
+1139,United States Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,13,6,0,Finished,9,7,1,25.2,56,45,201.5,98514.0
+1140,Mexico City Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,2,0,0,Finished (Lapped),18,17,1,24.3,70,70,195.6,79209.0
+1141,São Paulo Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,11,0,0,Finished,12,11,1,661.3,69,67,188.8,82143.0
+1142,Las Vegas Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,8,1,0,Finished,15,10,1,21.8,50,42,231.8,96326.0
+1143,Qatar Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,12,0,0,Accident,9,0,3,29.3,38,31,228.7,85288.0
+1144,Abu Dhabi Grand Prix,815,Sergio Pérez,Red Bull,Full-Time,0,0,0,Accident,10,0,1,24.5,0,0,0.0,
+1121,Bahrain Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,19,0,0,Finished (Lapped),16,19,2,26.6,56,33,202.5,96202.0
+1122,Saudi Arabian Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,14,0,0,Finished (Lapped),16,17,1,25.4,49,49,239.8,92706.0
+1123,Australian Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,16,0,0,Finished (Lapped),13,14,2,19.7,57,48,233.4,81422.0
+1124,Japanese Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,15,0,0,Finished (Lapped),13,14,3,543.2,52,25,216.4,96608.0
+1125,Chinese Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,19,0,0,Mechanical Failure,10,0,2,25.5,19,11,193.8,101276.0
+1126,Miami Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,18,0,0,Finished,16,16,1,23.4,57,55,211.5,92098.0
+1127,Emilia Romagna Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,18,0,0,Finished (Lapped),16,18,1,30.6,62,11,217.0,81455.0
+1128,Monaco Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,0,0,0,Finished (Lapped),17,13,1,1659.6,76,0,0.0,
+1129,Canadian Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,13,0,0,Finished,0,13,2,27.0,70,65,203.2,77250.0
+1130,Spanish Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,18,0,0,Finished (Lapped),12,16,2,22.6,65,13,210.6,79608.0
+1131,Austrian Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,19,0,0,Finished (Lapped),18,16,2,22.8,70,48,220.7,70449.0
+1132,British Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,18,0,0,Finished (Lapped),16,15,2,29.8,51,44,232.3,91277.0
+1133,Hungarian Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,13,0,0,Finished (Lapped),12,16,2,21.8,69,52,190.5,82792.0
+1134,Belgian Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,9,0,0,Finished,14,15,1,23.1,44,37,235.6,107019.0
+1135,Dutch Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,20,0,0,Finished (Lapped),16,19,1,21.4,70,45,202.2,75822.0
+1136,Italian Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,13,0,0,Finished (Lapped),19,16,1,26.2,52,52,249.4,83609.0
+1137,Azerbaijan Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,18,0,0,Finished (Lapped),16,16,1,20.7,50,41,199.3,108418.0
+1138,Singapore Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,17,0,0,Finished (Lapped),19,16,1,29.6,61,46,182.4,97524.0
+1139,United States Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,19,0,0,Finished (Lapped),16,17,1,25.2,55,53,197.3,100575.0
+1140,Mexico City Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,14,0,0,Finished (Lapped),15,14,1,24.3,70,57,191.1,81085.0
+1141,São Paulo Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,14,0,0,Finished,11,13,1,661.3,69,67,187.2,82877.0
+1142,Las Vegas Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,14,0,0,Finished (Lapped),19,18,1,21.8,49,46,231.1,96601.0
+1143,Qatar Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,13,0,0,Finished,13,11,3,29.3,57,53,228.1,85533.0
+1144,Abu Dhabi Grand Prix,822,Valtteri Bottas,Sauber,Full-Time,19,0,0,Other,9,0,1,24.5,30,14,212.5,89482.0
+1121,Bahrain Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,18,0,0,Finished (Lapped),11,14,2,26.6,56,37,203.3,95833.0
+1122,Saudi Arabian Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,15,0,0,Finished (Lapped),9,15,1,25.4,49,49,238.9,93026.0
+1123,Australian Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,11,6,0,Finished,8,7,2,19.7,58,46,234.2,81134.0
+1124,Japanese Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,14,1,0,Finished (Lapped),10,10,3,543.2,52,51,217.0,96342.0
+1125,Chinese Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,20,0,0,Mechanical Failure,19,0,2,25.5,26,11,193.2,101593.0
+1126,Miami Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,10,6,0,Finished,10,7,1,23.4,57,55,212.5,91682.0
+1127,Emilia Romagna Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,11,1,0,Finished (Lapped),7,10,1,30.6,62,14,218.4,80936.0
+1128,Monaco Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,0,4,0,Finished (Lapped),8,8,1,1659.6,77,0,0.0,
+1129,Canadian Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,14,0,0,Finished,8,14,2,27.0,70,70,203.1,77309.0
+1130,Spanish Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,16,0,0,Finished (Lapped),17,19,2,22.6,65,56,211.0,79447.0
+1131,Austrian Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,15,0,0,Finished (Lapped),14,14,2,22.8,70,54,221.1,70318.0
+1132,British Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,14,1,0,Finished,13,10,2,29.8,52,43,235.0,90229.0
+1133,Hungarian Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,18,2,0,Finished,10,9,2,21.8,70,57,188.8,83533.0
+1134,Belgian Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,15,0,0,Finished,20,16,1,23.1,44,44,233.5,107969.0
+1135,Dutch Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,17,0,0,Finished (Lapped),11,17,1,21.4,71,16,202.9,75552.0
+1136,Italian Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,20,0,0,Mechanical Failure,16,0,1,26.2,7,4,241.9,86198.0
+1137,Azerbaijan Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,20,0,0,Mechanical Failure,11,0,1,20.7,14,8,194.9,110887.0
+1138,Singapore Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,6,0,0,Finished (Lapped),8,12,1,29.6,61,53,184.5,96393.0
+1139,United States Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,15,0,0,Finished (Lapped),10,14,1,25.2,55,54,200.1,99193.0
+1140,Mexico City Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,0,0,0,Accident,11,0,1,24.3,0,0,0.0,
+1141,São Paulo Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,8,6,0,Finished,3,7,1,661.3,69,69,189.6,81828.0
+1142,Las Vegas Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,16,2,0,Finished,7,9,1,21.8,50,48,230.2,96957.0
+1143,Qatar Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,17,0,0,Finished,14,13,3,29.3,57,47,226.5,86144.0
+1144,Abu Dhabi Grand Prix,852,Yuki Tsunoda,RB F1 Team,Full-Time,15,0,0,Finished (Lapped),11,12,1,24.5,57,41,213.1,89200.0
