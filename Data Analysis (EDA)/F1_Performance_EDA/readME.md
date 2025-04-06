@@ -73,10 +73,9 @@ After running the notebook, you will gain insights into F1 Performance factor tr
 - Team dynamics.
 
 ## Sample Visualization
-![F1 Performance Factors](../images/newplot.png)
-![F1 Performance Factors](../images/newplot2.png)
-![F1 Performance Factors](../images/image.png)
-![F1 Performance Factors](../images/image2.png)
+![newplot2](https://github.com/user-attachments/assets/e84dd674-b52d-4b21-81a2-c42c1b4bd4ef)
+![newplot](https://github.com/user-attachments/assets/ace1f461-e295-48b5-8ff4-2b3850febe20)
+![image2](https://github.com/user-attachments/assets/0fc6e85b-e608-4525-ac59-c94b9be0120f)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
