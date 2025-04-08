@@ -1,6 +1,6 @@
 #  Global Life Expectency Trends: Exploratory Data Analysis (EDA) Project
 
-Note: This EDA along with the dataset can be viewed on [Kaggle](https://www.kaggle.com/code/christinecoomans/global-life-expectancy-trends-eda). 
+**IMPORTANT:** This EDA needs to be run to be able to view the `plotly` graphs in section 7. This can be done either via the instructions below, or it can be viewed directly on [Kaggle](https://www.kaggle.com/code/christinecoomans/global-life-expectancy-trends-eda). 
 
 ## Description
 

@@ -22,7 +22,7 @@ To get started with any of the projects in this repository, follow these steps:
 
 1. Clone the Repository.
 2. Follow Project-Specific Instructions. Each project may have its own set of instructions or requirements.
-3. Look for a README file or documentation within the project directory for more details.
+3. Look for a `README` file or documentation within the project directory for more details.
 
 ## Prerequisites
 - `Python`: Most projects require Python. Ensure you have Python installed on your machine.
