@@ -1,5 +1,7 @@
 # Car Crash Factors: Exploratory Data Analysis
 
+**IMPORTANT:** This EDA needs to be run to be able to view the `plotly` graphs in section 7. This can be done either via the instructions below, or it can be viewed directly on [Kaggle](https://www.kaggle.com/code/christinecoomans/car-crash-reports-eda). 
+
 ## Description
 
 The objective of this Exploratory Data Analysis (EDA) is to explore and understand the factors influencing vehicle accidents. The dataset, sourced from [Data.Gov](https://catalog.data.gov/dataset/crash-reporting-drivers-data), provides comprehensive information on road accidents, such as collision severity, weather conditions, road types, and contributing elements, offering valuable insights for the analysis and enhancement of overall road safety measures.
