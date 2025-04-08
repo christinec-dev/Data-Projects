@@ -6,24 +6,29 @@ The objective of this Exploratory Data Analysis (EDA) is to explore and understa
 
 #### Research Questions
 
-**1. Route Types and Accidents:**
-- Which route types have the highest frequency of accidents?
+## 1. Introduction
 
-**2. Car Types in Accidents:**
-- What are the most common car types involved in accidents?
+The objective of this Exploratory Data Analysis (EDA) is to explore and understand the factors influencing vehicle accidents. The dataset, sourced from [Data.Gov](https://catalog.data.gov/dataset/crash-reporting-drivers-data), provides comprehensive information on road accidents, such as collision severity, weather conditions, road types, and contributing elements, offering valuable insights for the analysis and enhancement of overall road safety measures.
 
-**3. Frequency of Accidents:**
-- Are certain car types more likely to be involved in accidents at specific times of the day or week?
+### Research Questions
+- **Route Types and Accidents:**
+    - Which route types have the highest frequency of accidents?
 
-**4. Agency and Substance-Induced Incidents:**
-- Are there specific times or conditions under which substance-induced incidents are more prevalent?
+- **Car Types in Accidents:**
+    - What are the most common car types involved in accidents?
 
-**5. Environmental Conditions and Crash Frequency:**
-- How do different weather conditions affect the frequency and severity of crashes?
+- **Frequency of Accidents:**
+    - Are certain car types more likely to be involved in accidents at specific times of the day or week?
 
-**6. Vehicle Movement vs. Collision Type:**
-- How does vehicle movement at the time of the accident affect the severity of the collision?
+- **Agency and Substance-Induced Incidents:**
+    - Are there specific times or conditions under which substance-induced incidents are more prevalent?
 
+- **Environmental Conditions and Crash Frequency:**
+    - How do different weather conditions affect the frequency and severity of crashes?
+
+- **Vehicle Movement vs. Collision Type:**
+    - How does vehicle movement at the time of the accident affect the severity of the collision?
+    - 
 #### Data Acquisition
 
 The data provided by Data.Gov can be accessed through the link provided below:
