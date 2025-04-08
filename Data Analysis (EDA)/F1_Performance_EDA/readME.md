@@ -6,7 +6,7 @@
 
 The objective of this Exploratory Data Analysis (EDA) is to explore and understand the performance trends of drivers and teams over the 2024 Formula 1 season. The datasets, sourced from [Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?select=results.csv), provides comprehensive information on the Formula 1 races, drivers, constructors, qualifying, circuits, lap times, pit stops, championships from the latest 2024 season. This analysis aims to address questions that will help uncover insights into both individual and team dynamics, as well as broader race strategies.
 
-#### Research Questions
+### Research Questions
 - **Overall Performance:**
     - How many points did each driver score over the season? This helps assess overall performance and consistency.
     - How many races did each driver win? Winning races is a key indicator of a driver's competitiveness.
@@ -31,7 +31,7 @@ The objective of this Exploratory Data Analysis (EDA) is to explore and understa
     - How often did drivers achieve the fastest lap, and how does this correlate with their finishing position? Fastest laps can indicate strong race pace and strategic decisions.
     - What is the correlation between pit stop strategies and race outcomes for each driver? Understanding pit stop impacts can inform strategic decisions.
 
-#### Data Acquisition
+### Data Acquisition
 
 The data is compiled from http://ergast.com/mrd/. The data provided by Kaggle can be accessed through the link provided below:
 - [Download Data](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?select=results.csv)
