@@ -80,10 +80,10 @@ After running the notebook, you will gain insights into F1 Performance factor tr
 - Team dynamics.
 
 ## Sample Visualization
-![Car Crash Factors](/images/newplot.png)
-![Car Crash Factors](/images/newplot2.png)
-![Car Crash Factors](/images/newplot3.png)
-![Car Crash Factors](/images/newplot4.png)
+![newplot2](https://github.com/user-attachments/assets/d551bb96-9642-4d51-8f8f-fd73a781ab4f)
+![newplot](https://github.com/user-attachments/assets/a5c63635-f618-4454-a9bc-7c2bac3cd3ad)
+![newplot4](https://github.com/user-attachments/assets/c9687c0c-c804-40c4-8471-14caa3594641)
+![newplot3](https://github.com/user-attachments/assets/d24d9805-9316-42e0-8150-f241eb34d33b)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
