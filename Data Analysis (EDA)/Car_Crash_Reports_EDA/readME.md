@@ -4,12 +4,6 @@
 
 The objective of this Exploratory Data Analysis (EDA) is to explore and understand the factors influencing vehicle accidents. The dataset, sourced from [Data.Gov](https://catalog.data.gov/dataset/crash-reporting-drivers-data), provides comprehensive information on road accidents, such as collision severity, weather conditions, road types, and contributing elements, offering valuable insights for the analysis and enhancement of overall road safety measures.
 
-#### Research Questions
-
-## 1. Introduction
-
-The objective of this Exploratory Data Analysis (EDA) is to explore and understand the factors influencing vehicle accidents. The dataset, sourced from [Data.Gov](https://catalog.data.gov/dataset/crash-reporting-drivers-data), provides comprehensive information on road accidents, such as collision severity, weather conditions, road types, and contributing elements, offering valuable insights for the analysis and enhancement of overall road safety measures.
-
 ### Research Questions
 - **Route Types and Accidents:**
     - Which route types have the highest frequency of accidents?
@@ -29,7 +23,7 @@ The objective of this Exploratory Data Analysis (EDA) is to explore and understa
 - **Vehicle Movement vs. Collision Type:**
     - How does vehicle movement at the time of the accident affect the severity of the collision?
     - 
-#### Data Acquisition
+### Data Acquisition
 
 The data provided by Data.Gov can be accessed through the link provided below:
 - [Download Data](https://catalog.data.gov/dataset/crash-reporting-drivers-data)
@@ -52,7 +46,7 @@ The data provided by Data.Gov can be accessed through the link provided below:
 - Latitude	
 - Longitude
 
-#### Notice
+### Notice
 Please note that the dataset is highly biased, primarily concerning Monroe County. This data does not accurately represent all car crashes overall.
 
 ## Features
