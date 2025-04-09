@@ -1,32 +1,31 @@
 # Car Crash Factors: Exploratory Data Analysis
 
+**IMPORTANT:** This EDA needs to be run to be able to view the `plotly` graphs in section 7. This can be done either via the instructions below, or it can be viewed directly on [Kaggle](https://www.kaggle.com/code/christinecoomans/car-crash-reports-eda). 
+
 ## Description
 
 The objective of this Exploratory Data Analysis (EDA) is to explore and understand the factors influencing vehicle accidents. The dataset, sourced from [Data.Gov](https://catalog.data.gov/dataset/crash-reporting-drivers-data), provides comprehensive information on road accidents, such as collision severity, weather conditions, road types, and contributing elements, offering valuable insights for the analysis and enhancement of overall road safety measures.
 
-#### Research Questions
+### Research Questions
+- **Route Types and Accidents:**
+    - Which route types have the highest frequency of accidents?
 
-**1. Route Types and Accidents:**
-- Which route types have the highest frequency of accidents?
+- **Car Types in Accidents:**
+    - What are the most common car types involved in accidents?
 
-**2. Car Types in Accidents:**
-- What are the most common car types involved in accidents?
+- **Frequency of Accidents:**
+    - Are certain car types more likely to be involved in accidents at specific times of the day or week?
 
-**3. Frequency of Accidents:**
-- Are certain car types more likely to be involved in accidents at specific times of the day or week?
+- **Agency and Substance-Induced Incidents:**
+    - Are there specific times or conditions under which substance-induced incidents are more prevalent?
 
-**4. Agency and Substance-Induced Incidents:**
-- Are there specific times or conditions under which substance-induced incidents are more prevalent?
+- **Environmental Conditions and Crash Frequency:**
+    - How do different weather conditions affect the frequency and severity of crashes?
 
-**5. Environmental Conditions and Crash Frequency:**
-- How do different weather conditions affect the frequency and severity of crashes?
-
-**6. Vehicle Movement vs. Collision Type:**
-- How does vehicle movement at the time of the accident affect the severity of the collision?
-
-#### Data Acquisition
-
-#### Data Acquisition
+- **Vehicle Movement vs. Collision Type:**
+    - How does vehicle movement at the time of the accident affect the severity of the collision?
+    - 
+### Data Acquisition
 
 The data provided by Data.Gov can be accessed through the link provided below:
 - [Download Data](https://catalog.data.gov/dataset/crash-reporting-drivers-data)
@@ -49,7 +48,7 @@ The data provided by Data.Gov can be accessed through the link provided below:
 - Latitude	
 - Longitude
 
-#### Notice
+### Notice
 Please note that the dataset is highly biased, primarily concerning Monroe County. This data does not accurately represent all car crashes overall.
 
 ## Features
@@ -83,10 +82,10 @@ After running the notebook, you will gain insights into F1 Performance factor tr
 - Team dynamics.
 
 ## Sample Visualization
-![Car Crash Factors](/images/newplot.png)
-![Car Crash Factors](/images/newplot2.png)
-![Car Crash Factors](/images/newplot3.png)
-![Car Crash Factors](/images/newplot4.png)
+![newplot2](https://github.com/user-attachments/assets/d551bb96-9642-4d51-8f8f-fd73a781ab4f)
+![newplot](https://github.com/user-attachments/assets/a5c63635-f618-4454-a9bc-7c2bac3cd3ad)
+![newplot4](https://github.com/user-attachments/assets/c9687c0c-c804-40c4-8471-14caa3594641)
+![newplot3](https://github.com/user-attachments/assets/d24d9805-9316-42e0-8150-f241eb34d33b)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
