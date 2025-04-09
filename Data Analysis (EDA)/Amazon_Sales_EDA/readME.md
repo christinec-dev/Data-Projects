@@ -1,5 +1,7 @@
 # Amazon Sales 2025: Exploratory Data Analysis
 
+**IMPORTANT:** This EDA needs to be run to be able to view the `plotly` graphs in section 7. This can be done either via the instructions below, or it can be viewed directly on [Kaggle](https://www.kaggle.com/code/christinecoomans/amazon-sales-2025-eda). 
+
 ## Description
 
 The objective of this Exploratory Data Analysis (EDA) is to gain valuable insights into sales performance, product trends, customer behavior, and operational dynamics of Amazon sales for 2025. The dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025), contains 250 records of Amazon sales transactions, including details about the products sold, customers, payment methods, and order statuses.
