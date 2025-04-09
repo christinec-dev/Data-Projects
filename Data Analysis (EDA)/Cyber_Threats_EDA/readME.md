@@ -92,6 +92,9 @@ The dataset analyzed in this study is extremely uniform. This narrow perspective
 These findings can guide strategic decision-making to mitigate the financial and operational impacts of cyber threats effectively.
 
 ## Sample Visualization
+![output](https://github.com/user-attachments/assets/e16f91a9-1108-49ff-994c-963d0877819c)
+![newplot2](https://github.com/user-attachments/assets/f95914be-e467-4247-a503-e528093a41c6)
+![newplot](https://github.com/user-attachments/assets/ddba26d8-2ae1-4211-89fa-c251debbd85b)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
