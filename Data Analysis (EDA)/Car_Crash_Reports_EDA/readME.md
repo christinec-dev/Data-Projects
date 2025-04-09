@@ -76,10 +76,7 @@ Please note that the dataset is highly biased, primarily concerning Monroe Count
 2. Run all cells in the notebook.
 
 ## Usage
-After running the notebook, you will gain insights into F1 Performance factor trends, including:
-- Key performance indicators. 
-- Strategic decisions.
-- Team dynamics.
+This EDA can help uncover meaningful insights into the multifaceted nature of vehicle accidents, including route types, vehicle characteristics, and environmental conditions. By leveraging these insights, policymakers and transportation authorities can implement targeted interventions to enhance road safety, reduce accident rates, and minimize injury severity.
 
 ## Sample Visualization
 ![newplot2](https://github.com/user-attachments/assets/d551bb96-9642-4d51-8f8f-fd73a781ab4f)
