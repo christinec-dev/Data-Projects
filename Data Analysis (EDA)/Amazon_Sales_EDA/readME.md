@@ -100,7 +100,9 @@ The dataset analyzed in this study is highly biased, as it covers only a small p
 These findings can guide strategic decision-making to optimize sales and enhance customer satisfaction.
 
 ## Sample Visualization
-
+![newplot](https://github.com/user-attachments/assets/d9df88c3-ad6f-4f25-8207-b79df3186c67)
+![output2](https://github.com/user-attachments/assets/438b703f-3df5-4792-93bd-353e78d9b1ed)
+![output](https://github.com/user-attachments/assets/78a3ab76-6526-420f-aca6-ef4dcbf61a29)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
