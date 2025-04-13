@@ -31,12 +31,12 @@ The objective of this Exploratory Data Analysis (EDA) is to explore and understa
     - How often did drivers achieve the fastest lap, and how does this correlate with their finishing position? Fastest laps can indicate strong race pace and strategic decisions.
     - What is the correlation between pit stop strategies and race outcomes for each driver? Understanding pit stop impacts can inform strategic decisions.
 
-### Data Acquisition
+## Data Acquisition
 
 The data is compiled from http://ergast.com/mrd/. The data provided by Kaggle can be accessed through the link provided below:
 - [Download Data](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?select=results.csv)
 
-#### Key Features of the Dataset
+### Key Features of the Dataset
 
 - **Race, Driver, Team Name**: Represents the race specific values.
 
