@@ -25,7 +25,7 @@ The objective of this Exploratory Data Analysis (EDA) is to explore and understa
 - **Vehicle Movement vs. Collision Type:**
     - How does vehicle movement at the time of the accident affect the severity of the collision?
     - 
-### Data Acquisition
+## Data Acquisition
 
 The data provided by Data.Gov can be accessed through the link provided below:
 - [Download Data](https://catalog.data.gov/dataset/crash-reporting-drivers-data)
