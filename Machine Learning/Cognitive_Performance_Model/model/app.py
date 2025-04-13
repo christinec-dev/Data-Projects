@@ -1,13 +1,21 @@
 import streamlit as st
-import joblib
+import pickle
 import pandas as pd
 import numpy as np
 from scipy.stats import norm
 import matplotlib.pyplot as plt
 import numpy as np
+import pickle
+import requests
 
 # Load the trained model
-model = joblib.load('cognitive_model.pkl')
+url = "https://github.com/christinec-dev/Data-Projects/raw/main/Machine%20Learning/Cognitive_Performance_Model/model/cognitive_model.pkl"
+response = requests.get(url)
+
+if response.status_code == 200:
+    model = pickle.loads(response.content)
+else:
+    print(f"Failed to download file: {response.status_code}")
 
 # Define user input fields
 st.title("Cognitive Performance Prediction")
