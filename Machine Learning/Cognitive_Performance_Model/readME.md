@@ -1,4 +1,4 @@
-# Amazon Sales 2025: Exploratory Data Analysis
+# Cognitive Performance Prediction: Linear Regression Model
 
 ## Description
 
@@ -6,7 +6,7 @@ The purpose of this model is to predict users' cognitive performance based on se
 
 The model employs Linear Regression to make these predictions. Linear regression estimates the relationship between a dependent variable (cognitive performance) and one or more explanatory variables (such as sleep, exercise, diet, etc.).
 
-To test the final model, execute `streamlit run app.py`. You can also run it via the deployed model here.
+To test the final model, execute `streamlit run app.py`. You can also run it via the deployed model [here](https://data-projects-cognitive-performance-model.streamlit.app).
 
 ## Data Acquisition
 
@@ -62,7 +62,8 @@ The original data aqcuired from Kaggle can be accessed through the link provided
 2. Run all cells in the notebook.
 
 ## Sample Visualization
-
+![Screenshot 2025-04-13 140018](https://github.com/user-attachments/assets/631e61fd-db89-4aab-aad5-036cda4314fa)
+![Screenshot 2025-04-13 140009](https://github.com/user-attachments/assets/30ef8147-134e-4596-9724-d396873e1fdd)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
