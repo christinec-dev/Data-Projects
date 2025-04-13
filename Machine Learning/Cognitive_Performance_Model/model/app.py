@@ -1,5 +1,5 @@
 import streamlit as st
-import joblib
+import pickle
 import pandas as pd
 import numpy as np
 from scipy.stats import norm
@@ -7,7 +7,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the trained model
-model = joblib.load('../Cognitive_Performance_Model/model/cognitive_model.pkl')
+with open("path/to/cognitive_model.pkl", "rb") as file:
+    model = pickle.load(file)
 
 # Define user input fields
 st.title("Cognitive Performance Prediction")
