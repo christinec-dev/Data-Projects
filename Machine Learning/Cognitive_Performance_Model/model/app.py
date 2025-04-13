@@ -1,12 +1,9 @@
 import streamlit as st
-import pickle
 import pandas as pd
 import numpy as np
 from scipy.stats import norm
 import matplotlib.pyplot as plt
 import numpy as np
-import pickle
-import requests
 import joblib
 
 # Load the trained model
@@ -22,7 +19,7 @@ diet_type = st.radio("Diet Type", ["Non-Vegetarian", "Vegan", "Vegetarian"])
 screen_time = st.number_input("Daily Screen Time (hours)", min_value=0.0, max_value=24.0, step=0.1)
 exercise = st.radio("Exercise Frequency", ["Low", "Medium", "High"])
 caffeine = st.number_input("Caffeine Intake (mg)", min_value=0, max_value=500, step=1)
-reaction_time = st.number_input("Reaction Time (ms)", min_value=200.0, max_value=600.0, step=0.1)
+reaction_time = st.number_input("Reaction Time (ms)", min_value=0.0, max_value=600.0, step=0.1)
 memory_score = st.number_input("Memory Test Score", min_value=0, max_value=100, step=1)
 
 # Predict button
