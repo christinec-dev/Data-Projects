@@ -41,8 +41,7 @@ The objective of this Exploratory Data Analysis (EDA) is to gain valuable insigh
 
 - Can we segment customers based on their purchasing behavior, such as frequent buyers, high spenders, or category-specific shoppers?
 
-### Data Acquisition
-
+## Data Acquisition
 
 The data provided by Kaggle can be accessed through the link provided below:
 - [Download Data](https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025)
