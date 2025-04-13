@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the trained model
-model = joblib.load('cognitive_model.pkl')
+model = joblib.load('../Cognitive_Performance_Model/model/cognitive_model.pkl')
 
 # Define user input fields
 st.title("Cognitive Performance Prediction")
