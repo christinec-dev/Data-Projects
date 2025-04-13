@@ -41,8 +41,7 @@ The objective of this Exploratory Data Analysis (EDA) is to gain valuable insigh
 
 - Can we segment customers based on their purchasing behavior, such as frequent buyers, high spenders, or category-specific shoppers?
 
-### Data Acquisition
-
+## Data Acquisition
 
 The data provided by Kaggle can be accessed through the link provided below:
 - [Download Data](https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025)
@@ -71,7 +70,7 @@ The data provided by Kaggle can be accessed through the link provided below:
 
 - **Status:** Order status (Completed, Pending, or Cancelled).
 
-#### Notice
+### Notice
 The dataset analyzed in this study is highly biased, as it covers only a small percentage of Amazon's total sales, categories, and products. Consequently, the findings may not accurately represent the broader trends or dynamics of Amazon's e-commerce operations. This data should be used with caution and treated as indicative rather than definitive. It provides a narrow perspective that may overlook diverse customer behaviors, regional variations, and product performance across the platform.
 
 ## Features

@@ -1,5 +1,7 @@
 # Cybersecurity Threats (2015-2019): Exploratory Data Analysis
 
+**IMPORTANT:** This EDA needs to be run to be able to view the `plotly` graphs in section 7. This can be done either via the instructions below, or it can be viewed directly on [Kaggle](https://www.kaggle.com/code/christinecoomans/cybersecurity-threats-205-2024-eda). 
+
 ## Description
 
 The goal of this Exploratory Data Analysis (EDA) is to obtain insights into cybersecurity threats from 2015 to 2024. The dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024), includes general trends, financial impacts, resolution times, vulnerabilities, defense mechanisms, and comparative aspects of threats during this period.
@@ -90,6 +92,9 @@ The dataset analyzed in this study is extremely uniform. This narrow perspective
 These findings can guide strategic decision-making to mitigate the financial and operational impacts of cyber threats effectively.
 
 ## Sample Visualization
+![output](https://github.com/user-attachments/assets/e16f91a9-1108-49ff-994c-963d0877819c)
+![newplot2](https://github.com/user-attachments/assets/f95914be-e467-4247-a503-e528093a41c6)
+![newplot](https://github.com/user-attachments/assets/ddba26d8-2ae1-4211-89fa-c251debbd85b)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
