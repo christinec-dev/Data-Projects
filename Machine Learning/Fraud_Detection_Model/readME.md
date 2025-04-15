@@ -1,6 +1,6 @@
 # Fraud Detection: Random Forest Classification
 
-**IMPORTANT**: The notebook for this model can be run either via the instructions below, or it can be viewed directly on [Kaggle](https://www.kaggle.com/code/christinecoomans/cognitive-performance-notebook).
+**IMPORTANT**: The notebook for this model can be run either via the instructions below, or it can be viewed directly on [Kaggle](https://www.kaggle.com/code/christinecoomans/fraud-detection-notebook).
 
 ## Description
 
