@@ -4,7 +4,7 @@
 
 The purpose of this model is to predict users' cognitive performance based on several factors, including hours of sleep, stress levels, diet, exercise, reaction time, and memory test scores. Cognitive performance refers to the efficiency and effectiveness of mental processes such as thinking, learning, memory, problem-solving, and attention. It encompasses the functions that enable individuals to process information and perform tasks.
 
-The model employs Linear Regression to make these predictions. Linear regression estimates the relationship between a dependent variable (cognitive performance) and one or more explanatory variables (such as sleep, exercise, diet, etc.).
+The model employs Linear Regression to make these predictions. Linear regression estimates the relationship between a dependent variable (cognitive performance) and one or more explanatory variables (such as sleep, exercise, diet, etc.). Cognitive performance is a continuous value, and thus linear regression is well-suited for continuous targets and provides interpretable results. 
 
 To test the final model, execute `streamlit run app.py`. You can also run it via the deployed model [here](https://cognitiveperformancemodel-dlfhuqwmhsjjna6vvzaq2w.streamlit.app).
 
@@ -47,7 +47,9 @@ The original data aqcuired from Kaggle can be accessed through the link provided
 - **data/:** Contains the dataset used for modelling.
 - **model/:**
     - `model.ipynb`: Jupyter notebook detailing the training process.
-    - `app.py`: Streamlit application code for deployment.
+    - `requirements.txt`: Requirements for jupyter notebook.
+- **app.py**: Streamlit application code for deployment.
+- **requirements.txt**: Requirements for streamlit app.
 - **README.md:** Project documentation.
 
 ## Installation
