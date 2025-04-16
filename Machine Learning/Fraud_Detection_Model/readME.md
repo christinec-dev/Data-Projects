@@ -1,7 +1,8 @@
 # Fraud Detection: Random Forest Classification
 
-## Description
+**IMPORTANT**: The notebook for this model can be run either via the instructions below, or it can be viewed directly on [Kaggle](https://www.kaggle.com/code/christinecoomans/fraud-detection-notebook).
 
+## Description
 
 The purpose of this model is to classify wether or not a transaction is fraudulent. Fraudulent data is determined by the distance the transaction was made from the persons home; distance from last purchase; average purchase total; and if the person used a card, chip, pin or made the purchase at a repeat retailer.
 

@@ -1,5 +1,7 @@
 # Cognitive Performance Prediction: Linear Regression Model
 
+**IMPORTANT**: The notebook for this model can be run either via the instructions below, or it can be viewed directly on [Kaggle](https://www.kaggle.com/code/christinecoomans/cognitive-performance-notebook).
+
 ## Description
 
 The purpose of this model is to predict users' cognitive performance based on several factors, including hours of sleep, stress levels, diet, exercise, reaction time, and memory test scores. Cognitive performance refers to the efficiency and effectiveness of mental processes such as thinking, learning, memory, problem-solving, and attention. It encompasses the functions that enable individuals to process information and perform tasks.
