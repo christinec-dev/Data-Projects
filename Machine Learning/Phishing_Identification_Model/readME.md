@@ -86,6 +86,9 @@ The original data aqcuired from Kaggle can be accessed through the link provided
 2. Run all cells in the notebook.
 
 ## Sample Visualization
+
+*The site flagged as phishing was sourced from [PhishTank](https://phishtank.org/phish_archive.php)
+
 ![Screenshot 2025-04-16 220447](https://github.com/user-attachments/assets/e7f5d955-f688-4434-975a-ed5b0d00dc3c)
 ![Screenshot 2025-04-16 220302](https://github.com/user-attachments/assets/2e48e280-0654-4481-94b7-bff044a52124)
 ![Screenshot 2025-04-16 220123](https://github.com/user-attachments/assets/b8693334-b7a5-456f-9a1f-d4702dea3008)
