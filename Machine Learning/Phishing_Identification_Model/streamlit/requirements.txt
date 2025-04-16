@@ -1,0 +1,16 @@
+scikit-learn
+streamlit
+joblib
+tldextract
+numpy
+requests
+python-whois
+ipaddress
+dnspython
+python-dotenv
+virustotal-python
+diskcache
+pandas
+scikit-learn
+matplotlib
+seaborn
